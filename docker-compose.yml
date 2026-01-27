@@ -1,0 +1,84 @@
+version: '3.8'
+
+services:
+  # PostgreSQL Database
+  db:
+    image: postgres:16-alpine
+    container_name: github-sponsor-db
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-postgres}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
+      POSTGRES_DB: ${POSTGRES_DB:-github_sponsors}
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./backend/db/db-schema.sql:/docker-entrypoint-initdb.d/01-schema.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-postgres}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - app-network
+
+  # Backend API
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+      target: production
+    container_name: github-sponsor-backend
+    environment:
+      # Database connection
+      host: db
+      port: 5432
+      user: ${POSTGRES_USER:-postgres}
+      password: ${POSTGRES_PASSWORD:-postgres}
+      dbname: ${POSTGRES_DB:-github_sponsors}
+      # GitHub API
+      PAT: ${PAT:-}
+      # OpenStreetMap
+      email: ${EMAIL:-}
+      # OpenAI
+      API_KEY: ${API_KEY:-}
+      # GitHub credentials for scraping
+      gh_username: ${GH_USERNAME:-}
+      gh_password: ${GH_PASSWORD:-}
+    ports:
+      - "5000:5000"
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      # Mount logs directory for persistence
+      - ./backend/logs:/app/backend/logs
+      # Mount data directory if needed
+      - ./data:/app/data:ro
+    networks:
+      - app-network
+    restart: unless-stopped
+
+  # Frontend
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: github-sponsor-frontend
+    ports:
+      - "${FRONTEND_PORT:-3000}:80"
+    depends_on:
+      - backend
+    environment:
+      - VITE_API_URL=http://localhost:5000
+    networks:
+      - app-network
+    restart: unless-stopped
+
+volumes:
+  postgres_data:
+    driver: local
+
+networks:
+  app-network:
+    driver: bridge

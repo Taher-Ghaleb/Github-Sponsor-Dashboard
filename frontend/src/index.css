@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@theme {
+  --tablet: 1280px;
+}
+
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom scrollbar styles (default to dark) */
+.custom-scrollbar::-webkit-scrollbar {
+  @apply w-2 h-2; /* 8px width and height */
+}
+
+/* Light mode scrollbar overrides */
+@media (prefers-color-scheme: light) {
+  .custom-scrollbar::-webkit-scrollbar-track {
+    @apply bg-[#b4b4b4];
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    @apply bg-[#999999] rounded-lg;
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    @apply bg-gray-500;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .custom-scrollbar::-webkit-scrollbar-track {
+    @apply bg-[#c9c8c8] rounded-lg;
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    @apply bg-[#898686] rounded-lg;
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    @apply bg-gray-500;
+  }
+}
+
+.scrollbar-width {
+  width: 300px;
+  height: 100px;
+}

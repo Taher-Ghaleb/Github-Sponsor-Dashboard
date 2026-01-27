@@ -1,0 +1,27 @@
+# ignore env file 
+.env
+.DS_Store
+.vscode
+
+# ignore virtual environment 
+venv
+__pycache__/
+
+rootusers.txt
+
+# ignore github browser authentication file
+auth.json
+
+# Log file of for scraper debugging
+scraper.log
+scraper.log.*
+
+# This file keeps track of the init. of the worker
+# Will be created upon runtime if it doesnt exist
+worker_state.json
+
+/local_files
+
+# Frontend build output
+/frontend/dist
+

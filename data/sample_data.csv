@@ -1,0 +1,1001 @@
+username,name,type,total_sponsors,location,following,estimated_earnings,twitter_username,profile_url,email,total_sponsoring,public_repos,followers,gender
+"evcc-io",,"Organization","10203","Germany","0","40812",,"https://github.com/evcc-io",,"0","18","1084",
+"rationalsa",,"User","2614",,"0","13070",,"https://github.com/rationalsa",,"2","3","184","Unknown"
+"KelvinTegelaar",,"User","2575",,"0","12875",,"https://github.com/KelvinTegelaar",,"1","55","855","Unknown"
+"Notifiarr","Notifiarr","Organization","1362",,"0","4086",,"https://github.com/Notifiarr",,"1","23","182",
+"neovim","Neovim","Organization","1120",,"0","2240",,"https://github.com/neovim",,"0","30","4503",
+"foosel","Gina Häußge","User","866","Germany","14","2598",,"https://github.com/foosel",,"8","123","2266","Female"
+"thestinger","Daniel Micay","User","829","Canada","0","4145",,"https://github.com/thestinger",,"0","9","0","Male"
+"Homebrew","Homebrew","Organization","748","Netherlands","0","748",,"https://github.com/Homebrew",,"0","24","6042",
+"andig","andig","User","579","Germany","15","2895",,"https://github.com/andig",,"0","151","618","Unknown"
+"simonw","Simon Willison","User","529","United States","141","2645",,"https://github.com/simonw",,"4","924","12130","Male"
+"tarsius","Jonas Bernoulli","User","462","Switzerland","45","1386",,"https://github.com/tarsius",,"2","35","1494","Male"
+"polakowo","Oleg Polakow","User","435",,"0","2175",,"https://github.com/polakowo",,"0","19","960","Male"
+"Vendicated","V","User","417","United States","139","417",,"https://github.com/Vendicated",,"8","57","2467","Unknown"
+"zGato",,"User","397",,"1","397",,"https://github.com/zGato",,"0","3","45","Male"
+"CollinHeist","Collin Heist","User","379",,"4","379",,"https://github.com/CollinHeist",,"0","16","51","Male"
+"skydoves","Jaewoong Eum","User","376","Germany","19","1880",,"https://github.com/skydoves",,"0","77","12539","Male"
+"gnachman","George Nachman","User","345","United States","0","1035",,"https://github.com/gnachman",,"0","56","1167","Male"
+"ziglang","Zig Programming Language","Organization","344","United States","0","1720",,"https://github.com/ziglang",,"5","27","3026",
+"lpil","Louis Pilfold","User","342","United Kingdom","92","1710",,"https://github.com/lpil",,"14","392","2421","Other"
+"debridmediamanager","Debrid Media Manager + zurg","Organization","334",,"0","1336",,"https://github.com/debridmediamanager",,"0","13","334",
+"vercidium-patreon","Vercidium","Organization","319","Australia","0","1595",,"https://github.com/vercidium-patreon",,"0","9","608",
+"elementary","elementary","Organization","316","United States","0","632",,"https://github.com/elementary",,"5","151","1646",
+"coollabsio","coolLabs","Organization","300",,"0","300",,"https://github.com/coollabsio",,"0","33","1472",
+"pi-hole","Pi-hole","Organization","291",,"0","291",,"https://github.com/pi-hole",,"0","23","3832",
+"servo","Servo","Organization","274",,"0","1370",,"https://github.com/servo",,"0","193","1134",
+"FirstGearGames",,"User","274",,"0","548",,"https://github.com/FirstGearGames",,"0","28","288","Unknown"
+"KDE","KDE GitHub Mirror","Organization","268",,"0","1340",,"https://github.com/KDE",,"0","1196","2916",
+"hachyderm",,"Organization","249",,"0","1245",,"https://github.com/hachyderm",,"0","10","216",
+"imsnif","Aram Drevekenin","User","248","Austria","22","1240",,"https://github.com/imsnif",,"0","99","1367","Other"
+"mastodon","Mastodon","Organization","232","Germany","0","1160",,"https://github.com/mastodon",,"0","47","3383",
+"nikitabobko","Nikita Bobko","User","220","Netherlands","41","660",,"https://github.com/nikitabobko",,"1","54","611","Male"
+"wez","Wez Furlong","User","214","United Kingdom","46","214",,"https://github.com/wez",,"1","127","3416","Male"
+"sindresorhus","Sindre Sorhus","User","209",,"31","1045",,"https://github.com/sindresorhus",,"13","1131","76977","Male"
+"fasterthanlime","Amos Wenger","User","205","France","33","1025",,"https://github.com/fasterthanlime",,"0","503","4630","Other"
+"johnsoncodehk","Johnson Chu","User","205","China","40","615",,"https://github.com/johnsoncodehk",,"3","126","1654","Male"
+"ddev","DDEV","Organization","204","United States","0","1020",,"https://github.com/ddev",,"5","105","202",
+"abaker","Alex Baker","User","196","United States","0","196",,"https://github.com/abaker",,"4","8","174","Male"
+"geerlingguy","Jeff Geerling","User","195","United States","64","390",,"https://github.com/geerlingguy",,"26","309","26131","Male"
+"tannerlinsley","Tanner Linsley","User","195","United States","13","975",,"https://github.com/tannerlinsley",,"15","160","14088","Male"
+"python","Python","Organization","193",,"0","965",,"https://github.com/python",,"0","90","29430",
+"sebastianbergmann","Sebastian Bergmann","User","191","Germany","0","191",,"https://github.com/sebastianbergmann",,"0","70","7569","Male"
+"yyx990803","Evan You","User","186","Singapore","100","930",,"https://github.com/yyx990803",,"9","198","106517","Male"
+"antfu","Anthony Fu","User","186","Ethiopia","396","744",,"https://github.com/antfu",,"13","383","38199","Male"
+"dani-garcia","Daniel García","User","184","Spain","8","184",,"https://github.com/dani-garcia",,"0","26","1080","Male"
+"hlissner","Henrik Lissner","User","173",,"0","865",,"https://github.com/hlissner",,"0","60","2616","Male"
+"ajayyy-org","Ajay Ramachandran","Organization","170",,"0","170",,"https://github.com/ajayyy-org",,"0","0","46",
+"sunnyhaibin","Jason Wen","User","159",,"3","795",,"https://github.com/sunnyhaibin",,"0","17","248","Male"
+"django","Django","Organization","154","United States","0","770",,"https://github.com/django",,"0","30","9241",
+"syncthing","The Syncthing Project","Organization","152",,"0","760",,"https://github.com/syncthing",,"0","23","2462",
+"YaLTeR","Ivan Molodetskikh","User","152",,"4","760",,"https://github.com/YaLTeR",,"0","125","1022","Male"
+"dtolnay","David Tolnay","User","150","United States","49","150",,"https://github.com/dtolnay",,"0","121","9096","Male"
+"RaenonX","RaenonX","User","150",,"0","750",,"https://github.com/RaenonX",,"0","24","106","Unknown"
+"LlmDl",,"User","149",,"1","596",,"https://github.com/LlmDl",,"6","28","182","Unknown"
+"derailed","Fernand Galiana","User","147","United States","5","735",,"https://github.com/derailed",,"0","63","1780","Male"
+"stancl","Samuel Štancl","User","146","Czechia","3","730",,"https://github.com/stancl",,"18","55","718","Male"
+"losingloonies","Dr. Loonies","User","146","Canada","1","730",,"https://github.com/losingloonies",,"0","3","228","Unknown"
+"Koenkk","Koen Kanters","User","145","Netherlands","10","145",,"https://github.com/Koenkk",,"0","92","2493","Male"
+"jesseduffield","Jesse Duffield","User","138","Australia","5","690",,"https://github.com/jesseduffield",,"0","61","6180","Male"
+"tiangolo","Sebastián Ramírez","User","132","Germany","7","660",,"https://github.com/tiangolo",,"19","61","30259","Male"
+"raysan5","Ray","User","132","Spain","288","132",,"https://github.com/raysan5",,"8","31","4931","Male"
+"typst","Typst","Organization","131","Germany","0","655",,"https://github.com/typst",,"0","31","3089",
+"calebporzio","Caleb Porzio","User","129","United States","3","645",,"https://github.com/calebporzio",,"4","92","5547","Male"
+"accrescent","Accrescent","Organization","128",,"0","640",,"https://github.com/accrescent",,"0","14","255",
+"The-Compiler","Florian Bruhin","User","127","Switzerland","32","127",,"https://github.com/The-Compiler",,"0","51","1256","Male"
+"tekezo","Takayama Fumihiko","User","126","Japan","458","630",,"https://github.com/tekezo",,"0","12","1041","Male"
+"tokio-rs","Tokio","Organization","124",,"0","124",,"https://github.com/tokio-rs",,"0","46","2606",
+"laurent22","Laurent Cozic","User","122","United Kingdom","10","244",,"https://github.com/laurent22",,"0","192","2536","Male"
+"FreeCAD","FreeCAD","Organization","122",,"0","610",,"https://github.com/FreeCAD",,"0","61","3913",
+"rstoenescu","Razvan Stoenescu","User","121",,"1","121",,"https://github.com/rstoenescu",,"0","29","1433","Male"
+"theonlymo","Mo7amed","User","121","France","0","605",,"https://github.com/theonlymo",,"0","15","276","Male"
+"awesomekling","Andreas Kling","User","118","Sweden","64","118",,"https://github.com/awesomekling",,"0","22","5564","Male"
+"BurntSushi","Andrew Gallant","User","117","United States","3","585",,"https://github.com/BurntSushi",,"1","181","11692","Male"
+"danharrin","Dan Harrin","User","117","United Kingdom","29","585",,"https://github.com/danharrin",,"3","13","1951","Male"
+"borkdude","Michiel Borkent","User","115","Netherlands","2","575",,"https://github.com/borkdude",,"3","363","2286","Male"
+"fosrl","Pangolin","Organization","113","United States","0","565",,"https://github.com/fosrl",,"0","16","484",
+"derickr","Derick Rethans","User","110","United Kingdom","0","330",,"https://github.com/derickr",,"0","174","1803","Male"
+"blakeblackshear","Blake Blackshear","User","110","United States","0","330",,"https://github.com/blakeblackshear",,"1","72","1191","Male"
+"kenkoooo","kenkoooo","User","110","Japan","0","110",,"https://github.com/kenkoooo",,"0","155","572","Unknown"
+"roots","roots.io","Organization","108",,"0","540",,"https://github.com/roots",,"3","68","710",
+"drizzle-team","Drizzle Team","Organization","107",,"0","535",,"https://github.com/drizzle-team",,"2","43","1143",
+"Xe","Xe Iaso","User","105","Canada","631","525",,"https://github.com/Xe",,"1","234","3963","Other"
+"cart","Carter Anderson","User","103",,"0","515",,"https://github.com/cart",,"0","45","1902","Male"
+"younesaassila","Younes Aassila","User","103",,"18","103",,"https://github.com/younesaassila",,"0","28","61","Male"
+"stalwartlabs","Stalwart Labs","Organization","102","United Kingdom","0","510",,"https://github.com/stalwartlabs",,"0","23","815",
+"alextran1502","Alex","User","102","United States","6","204",,"https://github.com/alextran1502",,"2","13","1023","Unknown"
+"JuliaLang","JuliaLang","Organization","101",,"0","505",,"https://github.com/JuliaLang",,"0","65","1856",
+"kennytv","Nassim Jahnke","User","101",,"19","505",,"https://github.com/kennytv",,"0","38","341","Male"
+"marcan","Hector Martin","User","100","Japan","0","300",,"https://github.com/marcan",,"0","92","5024","Male"
+"SaltyAom","SaltyAom","User","100","Thailand","29","100",,"https://github.com/SaltyAom",,"0","320","3709","Unknown"
+"shanegillio",,"User","98",,"5","98",,"https://github.com/shanegillio",,"0","4","69","Unknown"
+"eslint","ESLint","Organization","96",,"0","480",,"https://github.com/eslint",,"0","34","914",
+"Shra1V32","Shravan Vadeghar","User","96","India","92","480",,"https://github.com/Shra1V32",,"0","66","611","Male"
+"RaspAP","RaspAP","Organization","95",,"0","475",,"https://github.com/RaspAP",,"0","14","287",
+"PhilippC",,"User","94",,"0","188",,"https://github.com/PhilippC",,"1","17","379","Unknown"
+"azu","azu","User","92",,"357","92",,"https://github.com/azu",,"0","1468","2790","Unknown"
+"juliangarnier","Julian Garnier","User","92","France","7","460",,"https://github.com/juliangarnier",,"2","20","5175","Male"
+"protesilaos","Protesilaos Stavrou","User","92","Cyprus","0","276",,"https://github.com/protesilaos",,"2","153","1206","Male"
+"AsahiLinux","Asahi Linux","Organization","92",,"0","460",,"https://github.com/AsahiLinux",,"0","39","9255",
+"frenck","Franck Nijhof","User","92","Netherlands","59","184",,"https://github.com/frenck",,"0","130","4715","Male"
+"photoprism","PhotoPrism","Organization","91","Germany","0","455",,"https://github.com/photoprism",,"8","23","578",
+"JustArchi","Łukasz Domeradzki","User","90","Poland","6","90",,"https://github.com/JustArchi",,"0","24","880","Male"
+"ncw","Nick Craig-Wood","User","87","United Kingdom","3","174",,"https://github.com/ncw",,"0","99","1140","Male"
+"firasdib","Firas Dib","User","87","Denmark","2","87",,"https://github.com/firasdib",,"0","31","888","Male"
+"kovidgoyal","Kovid Goyal","User","87","India","0","435",,"https://github.com/kovidgoyal",,"0","45","5203","Male"
+"arp242","Martin Tournoij","User","85","Ireland","5","425",,"https://github.com/arp242",,"0","153","922","Male"
+"bbatsov","Bozhidar Batsov","User","85","Bulgaria","4","425",,"https://github.com/bbatsov",,"0","154","4790","Male"
+"miraheze","Miraheze","Organization","84","United States","0","168",,"https://github.com/miraheze",,"0","46","126",
+"thetutlage","Harminder Virk","User","83","India","3","415",,"https://github.com/thetutlage",,"0","267","2573","Male"
+"bigskysoftware","Big Sky Software","Organization","83",,"0","415",,"https://github.com/bigskysoftware",,"0","24","1711",
+"exelban","Serhiy Mytrovtsiy","User","83","Poland","0","83",,"https://github.com/exelban",,"0","19","728","Male"
+"br-g","Bruno Godefroy","User","83","France","14","415",,"https://github.com/br-g",,"0","19","74","Male"
+"TRaSH-","TRaSH","User","82",,"21","410",,"https://github.com/TRaSH-",,"0","26","280","Unknown"
+"nager","nager - open source projects","Organization","82","Austria","0","82",,"https://github.com/nager",,"0","31","59",
+"organicmaps","Organic Maps","Organization","81","Estonia","0","243",,"https://github.com/organicmaps",,"0","34","653",
+"ptrumpis","Patrick Trumpis","User","81",,"15","81",,"https://github.com/ptrumpis",,"0","14","108","Male"
+"ondrejmirtes","Ondřej Mirtes","User","80","Czechia","29","400",,"https://github.com/ondrejmirtes",,"0","188","808","Male"
+"bitfireAT","bitfire web engineering","Organization","79","Austria","0","79",,"https://github.com/bitfireAT",,"0","14","142",
+"colinhacks","Colin McDonnell","User","78","United States","69","390",,"https://github.com/colinhacks",,"0","158","3558","Male"
+"tpope","Tim Pope","User","78","United States","20","390",,"https://github.com/tpope",,"0","85","23069","Male"
+"junegunn","Junegunn Choi","User","78",,"0","390",,"https://github.com/junegunn",,"0","155","8370","Male"
+"LGUG2Z","Jeezy","User","77","United States","47","385",,"https://github.com/LGUG2Z",,"1","109","657","Male"
+"JulianPrieber","Julian Prieber","User","77","France","15","77",,"https://github.com/JulianPrieber",,"0","36","114","Male"
+"schickling","Johannes Schickling","User","76","Germany","69","380",,"https://github.com/schickling",,"3","83","2411","Male"
+"benjie","Benjie","User","76","United Kingdom","15","380",,"https://github.com/benjie",,"5","279","1010","Male"
+"xenodium",,"User","76","United Kingdom","34","380",,"https://github.com/xenodium",,"0","118","446","Unknown"
+"heathen-engineering","Heathen","Organization","76","Ireland","0","76",,"https://github.com/heathen-engineering",,"1","15","62",
+"sharkdp","David Peter","User","75","Germany","25","75",,"https://github.com/sharkdp",,"8","117","7808","Male"
+"nekohasekai","世界","User","75","China","56","375",,"https://github.com/nekohasekai",,"0","27","2127","Unknown"
+"numfocus","NumFOCUS","Organization","74",,"0","370",,"https://github.com/numfocus",,"0","63","937",
+"minad","Daniel Mendler","User","74","Germany","344","222",,"https://github.com/minad",,"0","170","1452","Male"
+"SwiftPackageIndex","Swift Package Index","Organization","74","United Kingdom","0","222",,"https://github.com/SwiftPackageIndex",,"1","35","301",
+"seanmonstar","Sean McArthur","User","73",,"15","365",,"https://github.com/seanmonstar",,"0","129","3248","Male"
+"tjdevries","TJ DeVries","User","72",,"165","216",,"https://github.com/tjdevries",,"0","177","13146","Male"
+"bovine3dom","Oliver Blanthorn","User","72","France","33","72",,"https://github.com/bovine3dom",,"0","103","143","Male"
+"ljharb","Jordan Harband","User","71","United States","420","355",,"https://github.com/ljharb",,"23","271","7898","Male"
+"exercism","Exercism","Organization","71",,"0","355",,"https://github.com/exercism",,"0","423","6292",
+"Deimos","Chad Birch","User","71","Canada","0","71",,"https://github.com/Deimos",,"0","19","211","Male"
+"kingslay","kintan","User","70",,"13","350",,"https://github.com/kingslay",,"0","39","60","Unknown"
+"prettier","Prettier","Organization","69",,"0","345",,"https://github.com/prettier",,"0","45","892",
+"tjbck","Tim Baek","User","69","Italy","19","345",,"https://github.com/tjbck",,"0","48","1424","Male"
+"micropython","MicroPython","Organization","69",,"0","69",,"https://github.com/micropython",,"1","18","1578",
+"ungive","Jonas van den Berg","User","69",,"33","69",,"https://github.com/ungive",,"0","133","116","Male"
+"atuinsh","Atuin","Organization","68",,"0","68",,"https://github.com/atuinsh",,"5","12","252",
+"meisnate12",,"User","68",,"9","68",,"https://github.com/meisnate12",,"0","24","136","Unknown"
+"johnleider","John Leider","User","67","United States","0","67",,"https://github.com/johnleider",,"1","13","1362","Male"
+"rui314","Rui Ueyama","User","66","Japan","8","330",,"https://github.com/rui314",,"3","46","6423","Unknown"
+"desec-io","deSEC","Organization","66","Germany","0","132",,"https://github.com/desec-io",,"0","23","141",
+"FossifyOrg","Fossify","Organization","66",,"0","132",,"https://github.com/FossifyOrg",,"0","31","6372",
+"haiku","Haiku","Organization","66","United States","0","330",,"https://github.com/haiku",,"0","29","253",
+"jeaye","Jeaye Wilkerson","User","65","United States","0","325",,"https://github.com/jeaye",,"0","51","651","Male"
+"nuxt","Nuxt","Organization","64","Denmark","0","320",,"https://github.com/nuxt",,"0","64","4533",
+"bep","Bjørn Erik Pedersen","User","64","Norway","13","192",,"https://github.com/bep",,"0","344","2418","Male"
+"GothenburgBitFactory","Gothenburg Bit Factory","Organization","64",,"0","320",,"https://github.com/GothenburgBitFactory",,"0","31","258",
+"bottlesdevs","Bottles","Organization","64","Paraguay","0","64",,"https://github.com/bottlesdevs",,"0","44","662",
+"shining-man",,"User","64",,"2","320",,"https://github.com/shining-man",,"0","10","49","Unknown"
+"bagder","Daniel Stenberg","User","63",,"24","315",,"https://github.com/bagder",,"0","50","7349","Male"
+"jordanbaird","Jordan Baird","User","63",,"0","315",,"https://github.com/jordanbaird",,"0","19","381","Male"
+"roc-lang","Roc","Organization","63",,"0","315",,"https://github.com/roc-lang",,"0","24","389",
+"davidlattimore","David Lattimore","User","63","Australia","1","63",,"https://github.com/davidlattimore",,"5","57","454","Male"
+"d4rken","Matthias Urhahn","User","63","Germany","38","189",,"https://github.com/d4rken",,"1","56","2004","Male"
+"jart","Justine Tunney","User","62","United States","127","248",,"https://github.com/jart",,"0","228","11187","Female"
+"Hypfer","Sören Beye","User","62",,"135","310",,"https://github.com/Hypfer",,"0","202","472","Male"
+"adumb-codes","adumb","User","62",,"1","248",,"https://github.com/adumb-codes",,"0","2","403","Unknown"
+"odin-lang","Odin","Organization","61",,"0","305",,"https://github.com/odin-lang",,"0","11","565",
+"nielsvanvelzen","Niels van Velzen","User","61","Netherlands","22","183",,"https://github.com/nielsvanvelzen",,"0","55","204","Male"
+"M66B","Marcel Bokhorst","User","61","Netherlands","0","122",,"https://github.com/M66B",,"0","26","1585","Male"
+"Furtif","--=FurtiF™=--","User","61",,"15","305",,"https://github.com/Furtif",,"0","183","134","Unknown"
+"tulir","Tulir Asokan","User","60","Finland","4","60",,"https://github.com/tulir",,"3","106","1070","Male"
+"oerdnj","Ondřej Surý","User","59","Czechia","1","59",,"https://github.com/oerdnj",,"0","135","1069","Male"
+"hayleigh-dot-dev","Hayleigh Thompson","User","59",,"1","295",,"https://github.com/hayleigh-dot-dev",,"0","46","554","Female"
+"binwiederhier","Philipp C. Heckel","User","59","United States","39","59",,"https://github.com/binwiederhier",,"0","96","993","Male"
+"ReVanced","ReVanced","Organization","59","United States","0","295",,"https://github.com/ReVanced",,"0","45","27177",
+"curl","curl","Organization","58",,"0","290",,"https://github.com/curl",,"0","24","1248",
+"purpshell","Rajeh Taher","User","58",,"0","290",,"https://github.com/purpshell",,"3","23","643","Male"
+"GraphiteEditor","Graphite","Organization","58",,"0","290",,"https://github.com/GraphiteEditor",,"0","1","339",
+"dominikh","Dominik Honnef","User","57","Germany","7","57",,"https://github.com/dominikh",,"1","142","1848","Male"
+"Rem0o","Rémi Mercier","User","57",,"6","285",,"https://github.com/Rem0o",,"0","18","875","Male"
+"fin3ss3g0d","Dylan Evans","User","57","United States","19","285",,"https://github.com/fin3ss3g0d",,"0","28","501","Male"
+"ssddanbrown","Dan Brown","User","56","United Kingdom","21","168",,"https://github.com/ssddanbrown",,"44","28","523","Male"
+"vitejs","Vite","Organization","56",,"0","280",,"https://github.com/vitejs",,"1","29","3983",
+"balloob","Paulus Schoutsen","User","56","United States","5","168",,"https://github.com/balloob",,"1","162","2854","Male"
+"PaperMC","PaperMC","Organization","56",,"0","56",,"https://github.com/PaperMC",,"0","59","1591",
+"protomaps","Protomaps","Organization","56",,"0","280",,"https://github.com/protomaps",,"0","8","1543",
+"hannobraun","Hanno Braun","User","56","Germany","32","112",,"https://github.com/hannobraun",,"0","90","489","Male"
+"sxzz","Kevin Deng","User","55",,"221","220",,"https://github.com/sxzz",,"6","209","4684","Male"
+"nodejs","Node.js","Organization","55",,"0","275",,"https://github.com/nodejs",,"0","229","15336",
+"willmcgugan","Will McGugan","User","55","United Kingdom","29","275",,"https://github.com/willmcgugan",,"0","43","4672","Male"
+"mattn","mattn","User","55","Japan","1698","55",,"https://github.com/mattn",,"0","2130","13175","Male"
+"shadcn","shadcn","User","54",,"0","270",,"https://github.com/shadcn",,"0","223","14870","Unknown"
+"lwouis",,"User","54",,"1","270",,"https://github.com/lwouis",,"0","39","314","Unknown"
+"posva","Eduardo San Martin Morote","User","53","France","61","265",,"https://github.com/posva",,"3","338","6431","Male"
+"babel","Babel","Organization","53","United States","0","265",,"https://github.com/babel",,"0","63","1011",
+"biomejs","Biome","Organization","53",,"0","265",,"https://github.com/biomejs",,"0","18","605",
+"mattgodbolt","Matt Godbolt","User","53","United States","103","265",,"https://github.com/mattgodbolt",,"2","91","4044","Male"
+"mholt","Matt Holt","User","53",,"10","265",,"https://github.com/mholt",,"0","58","6197","Male"
+"leaanthony","Lea Anthony","User","53","Australia","110","53",,"https://github.com/leaanthony",,"8","186","706","Female"
+"linuxserver","LinuxServer.io","Organization","53",,"0","53",,"https://github.com/linuxserver",,"0","305","6218",
+"johannesjo","Johannes Millan","User","53","Germany","151","159",,"https://github.com/johannesjo",,"0","60","808","Male"
+"matz","Yukihiro ""Matz"" Matsumoto","User","52","Japan","0","260",,"https://github.com/matz",,"0","10","10195","Male"
+"hay-kot","Hayden","User","52",,"2","52",,"https://github.com/hay-kot",,"0","76","237","Male"
+"NickM-27","Nicolas Mowen","User","52","United States","7","52",,"https://github.com/NickM-27",,"1","44","182","Male"
+"giacomocavalieri","Giacomo Cavalieri","User","52","Italy","69","260",,"https://github.com/giacomocavalieri",,"1","135","549","Male"
+"amidaware","AmidaWare Inc.","Organization","52",,"0","260",,"https://github.com/amidaware",,"0","11","186",
+"castrojo","Jorge O. Castro","User","51","United States","193","51",,"https://github.com/castrojo",,"21","164","816","Male"
+"droidmonkey","Jonathan White","User","51","United States","2","102",,"https://github.com/droidmonkey",,"0","19","286","Male"
+"steveseguin","Steve Seguin","User","51","Canada","23","51",,"https://github.com/steveseguin",,"0","265","745","Male"
+"hardillb","Ben Hardill","User","51",,"1","51",,"https://github.com/hardillb",,"1","136","245","Male"
+"Tienisto","Tien Do Nam","User","50","Germany","9","250",,"https://github.com/Tienisto",,"0","53","1231","Male"
+"stgraber","Stéphane Graber","User","50","Canada","19","250",,"https://github.com/stgraber",,"0","33","1049","Male"
+"hyperknot","Zsolt Ero","User","50",,"6","250",,"https://github.com/hyperknot",,"0","35","302","Male"
+"flibitijibibo","Ethan Lee","User","50","United States","14","250",,"https://github.com/flibitijibibo",,"0","39","969","Male"
+"TheUltimateC0der","Ultimate","User","50",,"2","50",,"https://github.com/TheUltimateC0der",,"0","29","43","Unknown"
+"mrousavy","Marc Rousavy","User","49","Austria","111","245",,"https://github.com/mrousavy",,"8","170","5088","Male"
+"hynek","Hynek Schlawack","User","49","Germany","6","245",,"https://github.com/hynek",,"0","28","1838","Male"
+"louislam","Louis Lam","User","49","China","12","245",,"https://github.com/louislam",,"0","56","3194","Male"
+"Intelli",,"User","49","Canada","0","245",,"https://github.com/Intelli",,"1","33","38","Unknown"
+"PCSX2","PCSX2 Team","Organization","49",,"0","49",,"https://github.com/PCSX2",,"0","17","1121",
+"asottile","anthony sottile","User","48",,"23","48",,"https://github.com/asottile",,"0","76","5956","Male"
+"capawesome-team","Capawesome","Organization","48",,"0","240",,"https://github.com/capawesome-team",,"0","33","397",
+"phpstan","PHPStan","Organization","48","Czechia","0","240",,"https://github.com/phpstan",,"3","23","232",
+"zx2c4","Jason A. Donenfeld","User","48",,"0","240",,"https://github.com/zx2c4",,"0","11","2137","Male"
+"thheller","Thomas Heller","User","48","Germany","0","48",,"https://github.com/thheller",,"0","129","484","Male"
+"mhanberg","Mitchell Hanberg","User","48","United States","64","240",,"https://github.com/mhanberg",,"0","256","425","Male"
+"theacodes","Stargirl Flowers","User","48","United States","34","240",,"https://github.com/theacodes",,"2","162","2313","Female"
+"redsolver",,"User","48","Germany","32","48",,"https://github.com/redsolver",,"7","111","234","Male"
+"encode","Encode","Organization","47",,"0","235",,"https://github.com/encode",,"0","16","1994",
+"ueberdosis","Tiptap","Organization","47","Germany","0","235",,"https://github.com/ueberdosis",,"2","40","626",
+"JanDeDobbeleer","Jan De Dobbeleer","User","47","Belgium","10","47",,"https://github.com/JanDeDobbeleer",,"8","103","3887","Male"
+"johnbillion","John Blackbourn","User","47","United Kingdom","3","47",,"https://github.com/johnbillion",,"6","103","1138","Male"
+"bbilly1","Simon","User","46",,"0","230",,"https://github.com/bbilly1",,"0","15","85","Male"
+"nicm","Nicholas Marriott","User","46",,"0","46",,"https://github.com/nicm",,"0","2","322","Male"
+"jonhoo","Jon Gjengset","User","46","Norway","5","230",,"https://github.com/jonhoo",,"1","260","13145","Male"
+"vonovak","Vojtech Novak","User","46","Czechia","1","230",,"https://github.com/vonovak",,"1","140","789","Male"
+"pallets","Pallets","Organization","45",,"0","225",,"https://github.com/pallets",,"0","17","2172",
+"jsdelivr","jsDelivr","Organization","45",,"0","225",,"https://github.com/jsdelivr",,"0","44","364",
+"SoftFever","SoftFever","User","45","Singapore","2","225",,"https://github.com/SoftFever",,"0","20","1565","Unknown"
+"richardwilkes","Richard Wilkes","User","45","United States","1","45",,"https://github.com/richardwilkes",,"0","61","99","Male"
+"ritchie46","Ritchie Vink","User","44","Netherlands","43","220",,"https://github.com/ritchie46",,"0","104","1627","Male"
+"pnpm","pnpm","Organization","44",,"0","220",,"https://github.com/pnpm",,"0","111","866",
+"andrewrk","Andrew Kelley","User","44","United States","187","220",,"https://github.com/andrewrk",,"0","218","9885","Male"
+"m-ou-se","Mara Bos","User","44","Netherlands","11","44",,"https://github.com/m-ou-se",,"0","107","3639","Female"
+"vapor","Vapor","Organization","44","United States","0","220",,"https://github.com/vapor",,"0","79","982",
+"wevm","wevm","Organization","44",,"0","88",,"https://github.com/wevm",,"6","32","970",
+"igoramadas","Igor Ramadas","User","44","Germany","1","44",,"https://github.com/igoramadas",,"0","22","52","Male"
+"kevinchalet","Kévin Chalet","User","44","France","7","88",,"https://github.com/kevinchalet",,"6","24","550","Male"
+"bzg","Bastien","User","43","France","601","43",,"https://github.com/bzg",,"0","49","853","Male"
+"phil-opp","Philipp Oppermann","User","43","Germany","22","43",,"https://github.com/phil-opp",,"0","142","3077","Male"
+"composer","Composer","Organization","43",,"0","215",,"https://github.com/composer",,"0","20","549",
+"jgm","John MacFarlane","User","43","United States","0","172",,"https://github.com/jgm",,"0","103","3180","Male"
+"pawamoy","Timothée Mazzucotelli","User","42","France","271","42",,"https://github.com/pawamoy",,"19","131","582","Male"
+"fregante",,"User","42",,"44","210",,"https://github.com/fregante",,"0","283","1896","Unknown"
+"Seldaek","Jordi Boggiano","User","42","Switzerland","1","42",,"https://github.com/Seldaek",,"0","268","4673","Male"
+"marijnh","Marijn Haverbeke","User","42","Germany","0","210",,"https://github.com/marijnh",,"0","46","6987","Other"
+"richhickey","Rich Hickey","User","42","United States","0","42",,"https://github.com/richhickey",,"1","10","6266","Male"
+"meshtastic","Meshtastic","Organization","42","United States","0","210",,"https://github.com/meshtastic",,"0","118","5378",
+"danielroe","Daniel Roe","User","41","United Kingdom","170","205",,"https://github.com/danielroe",,"25","857","5575","Male"
+"ggerganov","Georgi Gerganov","User","41","Bulgaria","13","41",,"https://github.com/ggerganov",,"0","70","18613","Male"
+"zen-browser","Zen","Organization","41",,"0","205",,"https://github.com/zen-browser",,"0","16","9265",
+"plone","Plone","Organization","41","Switzerland","0","205",,"https://github.com/plone",,"0","415","664",
+"ImageMagick","ImageMagick Studio LLC","Organization","40","United States","0","40",,"https://github.com/ImageMagick",,"0","72","479",
+"claremacrae","Clare Macrae","User","40","United Kingdom","8","200",,"https://github.com/claremacrae",,"0","179","330","Female"
+"rrousselGit","Remi Rousselet","User","40",,"61","200",,"https://github.com/rrousselGit",,"0","69","7493","Male"
+"qdm12","Quentin McGaw","User","40","Luxembourg","37","40",,"https://github.com/qdm12",,"0","81","755","Male"
+"RocketChat","Rocket.Chat","Organization","40",,"0","40",,"https://github.com/RocketChat",,"0","314","2825",
+"silverbulletmd","SilverBullet","Organization","40",,"0","80",,"https://github.com/silverbulletmd",,"0","13","159",
+"phoerious","Janek Bevendorff","User","39",,"22","39",,"https://github.com/phoerious",,"0","45","241","Male"
+"golangci","GolangCI","Organization","39","France","0","195",,"https://github.com/golangci",,"0","65","316",
+"rust-analyzer",,"Organization","39",,"0","195",,"https://github.com/rust-analyzer",,"0","24","146",
+"deluan","Deluan Quintão","User","39","Canada","9","117",,"https://github.com/deluan",,"0","89","253","Male"
+"AzuraCast","AzuraCast","Organization","39",,"0","39",,"https://github.com/AzuraCast",,"0","31","177",
+"wh1te909","wh1te909","User","39",,"5","195",,"https://github.com/wh1te909",,"0","15","175","Unknown"
+"yusukebe","Yusuke Wada","User","38","Japan","360","38",,"https://github.com/yusukebe",,"4","350","3613","Male"
+"nunomaduro","nuno maduro","User","38","Portugal","5","190",,"https://github.com/nunomaduro",,"0","299","8931","Male"
+"dai-shi","Daishi Kato","User","38","Japan","1","190",,"https://github.com/dai-shi",,"0","128","8013","Male"
+"dmonad"," Kevin Jahns","User","38","Germany","33","152",,"https://github.com/dmonad",,"3","43","1283","Male"
+"orhun","Orhun Parmaksız","User","38","Turkey","577","38",,"https://github.com/orhun",,"17","511","4318","Male"
+"cloudposse","Cloud Posse","Organization","38","United States","0","38",,"https://github.com/cloudposse",,"0","242","1712",
+"xmonad","The xmonad window manager","Organization","38",,"0","190",,"https://github.com/xmonad",,"0","9","118",
+"JC5","James Cole","User","38","Netherlands","50","190",,"https://github.com/JC5",,"0","18","377","Male"
+"rxhanson","Ryan Hanson","User","37",,"0","37",,"https://github.com/rxhanson",,"2","8","1267","Male"
+"unnoq",,"User","37",,"73","185",,"https://github.com/unnoq",,"0","123","211","Male"
+"fabpot","Fabien Potencier","User","37","France","0","185",,"https://github.com/fabpot",,"0","82","13341","Male"
+"Boshen","Boshen","User","37",,"66","185",,"https://github.com/Boshen",,"0","92","1877","Unknown"
+"alice-i-cecile","Alice Cecile","User","37","Canada","11","185",,"https://github.com/alice-i-cecile",,"0","62","918","Female"
+"yihui","Yihui Xie","User","37","United States","47","185",,"https://github.com/yihui",,"5","91","9774","Male"
+"vabene1111",,"User","37","Germany","2","74",,"https://github.com/vabene1111",,"0","38","84","Unknown"
+"AvaloniaUI","Avalonia UI","Organization","37","Estonia","0","185",,"https://github.com/AvaloniaUI",,"0","57","1599",
+"openssl","OpenSSL","Organization","37",,"0","185",,"https://github.com/openssl",,"0","18","1293",
+"osnr","Omar Rizwan","User","37","United States","75","185",,"https://github.com/osnr",,"0","125","904","Male"
+"antoyo",,"User","37","Canada","8","37",,"https://github.com/antoyo",,"0","151","444","Unknown"
+"progrium","Jeff Lindsay","User","37","United States","94","37",,"https://github.com/progrium",,"0","272","3927","Male"
+"BottlecapDave","David Kendall","User","37",,"2","74",,"https://github.com/BottlecapDave",,"0","33","116","Male"
+"NixOS","Nix/Nixpkgs/NixOS","Organization","37","United States","0","185",,"https://github.com/NixOS",,"0","89","5238",
+"tauri-apps","Tauri","Organization","36",,"0","180",,"https://github.com/tauri-apps",,"0","111","4194",
+"bjorn","Thorbjørn Lindeijer","User","36","Germany","18","180",,"https://github.com/bjorn",,"0","126","846","Male"
+"LizardByte","LizardByte","Organization","36","United States","0","180",,"https://github.com/LizardByte",,"0","57","913",
+"TkDodo","Dominik Dorfmeister","User","36","Austria","2","36",,"https://github.com/TkDodo",,"0","54","3268","Male"
+"westnordost","Tobias Zwick","User","36","Germany","1","72",,"https://github.com/westnordost",,"1","38","269","Male"
+"nivenly","Nivenly Foundation","Organization","36","United States","0","180",,"https://github.com/nivenly",,"0","10","75",
+"zulip","Zulip","Organization","36",,"0","180",,"https://github.com/zulip",,"0","67","1249",
+"codediodeio","Jeff Delaney","User","35","United States","89","35",,"https://github.com/codediodeio",,"17","65","23010","Male"
+"plantuml","PlantUML","Organization","35",,"0","35",,"https://github.com/plantuml",,"1","42","767",
+"rsms","Rasmus","User","35","United States","46","35",,"https://github.com/rsms",,"3","178","7721","Male"
+"cheeaun","Chee Aun","User","35","Singapore","1062","35",,"https://github.com/cheeaun",,"2","248","1830","Male"
+"caarlos0","Carlos Alexandro Becker","User","35","Brazil","172","175",,"https://github.com/caarlos0",,"2","125","4369","Male"
+"simplex-chat","SimpleX Chat","Organization","35",,"0","35",,"https://github.com/simplex-chat",,"5","55","1467",
+"lcnr","lcnr","User","35","Germany","0","35",,"https://github.com/lcnr",,"0","121","472","Unknown"
+"alexellis","Alex Ellis","User","35","United Kingdom","5","175",,"https://github.com/alexellis",,"0","454","5081","Unknown"
+"bdunderscore","bd_","User","35",,"14","175",,"https://github.com/bdunderscore",,"1","42","205","Unknown"
+"supermerill","Merill","User","35","France","0","70",,"https://github.com/supermerill",,"0","38","607","Unknown"
+"alexander0042","Alexander Rey","User","35",,"34","35",,"https://github.com/alexander0042",,"0","27","107","Male"
+"ThePrimeagen","ThePrimeagen","User","34",,"5","34",,"https://github.com/ThePrimeagen",,"0","232","46462","Unknown"
+"larabelles","Larabelles","Organization","34",,"0","170",,"https://github.com/larabelles",,"0","2","68",
+"marcoroth","Marco Roth","User","34","Switzerland","1288","170",,"https://github.com/marcoroth",,"0","264","993","Male"
+"advplyr",,"User","34",,"0","170",,"https://github.com/advplyr",,"0","25","342","Unknown"
+"positron-solutions","Positron Solutions","Organization","34","South Korea","0","34",,"https://github.com/positron-solutions",,"0","20","113",
+"shamoon",,"User","34",,"0","170",,"https://github.com/shamoon",,"0","10","177","Unknown"
+"archlinux","Arch Linux","Organization","34",,"0","170",,"https://github.com/archlinux",,"0","50","5253",
+"HerringtonDarkholme","Herrington Darkholme","User","33",,"302","33",,"https://github.com/HerringtonDarkholme",,"0","218","2326","Male"
+"mrdoob",,"User","33",,"194","165",,"https://github.com/mrdoob",,"0","49","24720","Unknown"
+"cryptomator","Cryptomator","Organization","33","Germany","0","165",,"https://github.com/cryptomator",,"2","49","1342",
+"maplibre","MapLibre","Organization","33",,"0","165",,"https://github.com/maplibre",,"0","55","1519",
+"jotego","JOTEGO","User","33","Spain","49","165",,"https://github.com/jotego",,"0","84","865","Unknown"
+"taylorotwell","Taylor Otwell","User","33","United States","2","132",,"https://github.com/taylorotwell",,"0","33","35105","Male"
+"hajimehoshi","Hajime Hoshi","User","33","Japan","339","33",,"https://github.com/hajimehoshi",,"1","161","2391","Male"
+"jamii","Jamie Brandon","User","33","Canada","2","165",,"https://github.com/jamii",,"0","54","1497","Male"
+"FolkComputer","Folk Computer","Organization","33","United States","0","165",,"https://github.com/FolkComputer",,"0","7","100",
+"natew","Nate Wienert","User","33","United States","70","165",,"https://github.com/natew",,"0","208","1148","Male"
+"petejohanson","Pete Johanson","User","33","United States","2","165",,"https://github.com/petejohanson",,"0","213","306","Male"
+"Olical","Oliver Caldwell","User","33","United Kingdom","18","99",,"https://github.com/Olical",,"0","171","705","Male"
+"OCA","Odoo Community Association","Organization","33","Switzerland","0","165",,"https://github.com/OCA",,"0","257","4147",
+"LycheeOrg","Lychee Organisation","Organization","33",,"0","165",,"https://github.com/LycheeOrg",,"0","19","134",
+"lando","Lando","Organization","32","United States","0","128",,"https://github.com/lando",,"0","71","176",
+"kolaente",,"User","32","Germany","15","32",,"https://github.com/kolaente",,"2","117","148","Male"
+"BoxyUwU","Boxy","User","32","United Kingdom","53","160",,"https://github.com/BoxyUwU",,"0","70","369","Female"
+"djc","Dirkjan Ochtman","User","32","Netherlands","3","160",,"https://github.com/djc",,"0","233","1448","Male"
+"johnlindquist","John Lindquist","User","32",,"8","128",,"https://github.com/johnlindquist",,"0","688","2119","Male"
+"lukaszsamson","Łukasz Samson","User","32","Poland","2","160",,"https://github.com/lukaszsamson",,"0","104","113","Male"
+"robertsLando","Daniel Lando","User","32","Italy","27","160",,"https://github.com/robertsLando",,"0","79","250","Male"
+"jdx",,"User","32","United States","177","160",,"https://github.com/jdx",,"0","577","3379","Unknown"
+"jrfnl","Juliette","User","32","Netherlands","28","160",,"https://github.com/jrfnl",,"9","231","1351","Female"
+"ThePHPF","The PHP Foundation","Organization","32",,"0","160",,"https://github.com/ThePHPF",,"0","6","388",
+"onedr0p","Devin Buhl","User","32",,"219","32",,"https://github.com/onedr0p",,"0","154","866","Male"
+"rclone","rclone","Organization","32",,"0","160",,"https://github.com/rclone",,"0","22","633",
+"actualbudget","Actual","Organization","32",,"0","160",,"https://github.com/actualbudget",,"0","21","722",
+"fuma-nama","Fuma Nama","User","32","China","72","160",,"https://github.com/fuma-nama",,"0","118","1432","Unknown"
+"danny-avila","Danny Avila","User","32",,"8","160",,"https://github.com/danny-avila",,"0","39","996","Male"
+"tidev","TiDev","Organization","32",,"0","160",,"https://github.com/tidev",,"0","109","86",
+"BlueBubblesApp","BlueBubbles","Organization","32",,"0","160",,"https://github.com/BlueBubblesApp",,"0","40","370",
+"privatenumber","Hiroki Osame","User","31","Japan","111","31",,"https://github.com/privatenumber",,"7","243","3811","Male"
+"B4nan","Martin Adámek","User","31","Czechia","1","155",,"https://github.com/B4nan",,"0","56","487","Male"
+"Radarr",,"Organization","31",,"0","62",,"https://github.com/Radarr",,"0","6","212",
+"spatie","Spatie","Organization","31","Belgium","0","155",,"https://github.com/spatie",,"5","501","3586",
+"OSGeo","Open Source Geospatial Foundation","Organization","31","United States","0","31",,"https://github.com/OSGeo",,"0","44","1029",
+"hediet","Henning Dieterichs","User","31","Germany","32","31",,"https://github.com/hediet",,"0","125","1711","Male"
+"starship","Starship Command","Organization","31","United States","0","62",,"https://github.com/starship",,"0","7","462",
+"workeffortwaste","Chris Johnson","User","31",,"84","155",,"https://github.com/workeffortwaste",,"0","47","144","Male"
+"eliandoran","Elian Doran","User","31","Romania","34","31",,"https://github.com/eliandoran",,"0","67","105","Male"
+"LunaTheFoxgirl","Luna","User","31","Denmark","126","31",,"https://github.com/LunaTheFoxgirl",,"0","121","933","Female"
+"S3cur3Th1sSh1t",,"User","31","South Africa","201","31",,"https://github.com/S3cur3Th1sSh1t",,"2","127","3683","Unknown"
+"messense","messense","User","30","China","520","30",,"https://github.com/messense",,"1","147","2140","Unknown"
+"zkat","Kat Marchán","User","30",,"63","150",,"https://github.com/zkat",,"0","215","4715","Other"
+"withastro","Astro","Organization","30",,"0","150",,"https://github.com/withastro",,"0","47","3825",
+"antonmedv","Anton Medvedev","User","30","Switzerland","109","150",,"https://github.com/antonmedv",,"0","64","3095","Male"
+"plausible","Plausible Analytics","Organization","30",,"0","150",,"https://github.com/plausible",,"0","21","631",
+"dimforge","dimforge","Organization","30",,"0","150",,"https://github.com/dimforge",,"0","33","499",
+"ohmyzsh","Oh My Zsh","Organization","30","United States","0","150",,"https://github.com/ohmyzsh",,"0","7","2494",
+"Ocramius","Marco Pivetta","User","30","Italy","240","150",,"https://github.com/Ocramius",,"24","387","4357","Male"
+"JonnyWong16",,"User","30","Canada","2","30",,"https://github.com/JonnyWong16",,"0","18","159","Unknown"
+"obi1kenobi","Predrag Gruevski","User","30",,"4","150",,"https://github.com/obi1kenobi",,"0","107","741","Male"
+"dvarrazzo","Daniele Varrazzo","User","30",,"0","150",,"https://github.com/dvarrazzo",,"0","105","528","Male"
+"devlooped",,"Organization","30","Argentina","0","30",,"https://github.com/devlooped",,"0","92","129",
+"TomasVotruba","Tomas Votruba","User","30","Czechia","2","150",,"https://github.com/TomasVotruba",,"0","279","1627","Male"
+"f-droid","F-Droid","Organization","30",,"0","150",,"https://github.com/f-droid",,"0","14","1525",
+"MudBlazor","MudBlazor","Organization","30","Sweden","0","150",,"https://github.com/MudBlazor",,"0","9","585",
+"joinemm","Joonas Rautiola","User","30","Finland","49","150",,"https://github.com/joinemm",,"0","79","76","Male"
+"Shchvova","Vlad Svoka","User","30","Canada","1","150",,"https://github.com/Shchvova",,"0","91","150","Male"
+"Proektsoftbg","Ned Ganchovski","User","30","Bulgaria","16","30",,"https://github.com/Proektsoftbg",,"0","4","167","Male"
+"thyngster","David Vallejo","User","29","Spain","22","145",,"https://github.com/thyngster",,"3","35","177","Male"
+"termux","Termux","Organization","29",,"0","58",,"https://github.com/termux",,"0","63","19870",
+"cyberalien","Vjacheslav Trushkin","User","29","Estonia","0","29",,"https://github.com/cyberalien",,"0","56","295","Male"
+"zigtools","zigtools","Organization","29",,"0","145",,"https://github.com/zigtools",,"0","24","451",
+"huntabyte","Hunter Johnston","User","29",,"24","116",,"https://github.com/huntabyte",,"5","157","1831","Male"
+"mihaip","Mihai Parparita","User","29","United States","12","29",,"https://github.com/mihaip",,"0","73","455","Male"
+"gbj","Greg Johnston","User","29",,"4","145",,"https://github.com/gbj",,"1","43","976","Male"
+"steveruizok","Steve Ruiz","User","29","United Kingdom","7","29",,"https://github.com/steveruizok",,"0","171","3240","Male"
+"ThePhD","The Phantom Derpstorm","User","29",,"50","29",,"https://github.com/ThePhD",,"0","79","2304","Unknown"
+"simonhamp","Simon Hamp","User","29","Spain","163","58",,"https://github.com/simonhamp",,"0","59","529","Male"
+"gcushen","Geo","User","29",,"19","29",,"https://github.com/gcushen",,"0","9","677","Male"
+"opensheetmusicdisplay","Open Sheet Music Display","Organization","29","Austria","0","145",,"https://github.com/opensheetmusicdisplay",,"0","15","68",
+"scoder","scoder","User","28","Germany","2","28",,"https://github.com/scoder",,"0","28","508","Unknown"
+"pi0","Pooya Parsa","User","28","Netherlands","290","84",,"https://github.com/pi0",,"0","402","4825","Male"
+"paulmillr","Paul Miller","User","28",,"0","140",,"https://github.com/paulmillr",,"0","60","4331","Male"
+"pmndrs","Poimandres","Organization","28",,"0","140",,"https://github.com/pmndrs",,"0","90","9477",
+"supabase","Supabase","Organization","28","United States","0","140",,"https://github.com/supabase",,"2","141","8486",
+"swannodette","David Nolen","User","28","United States","139","28",,"https://github.com/swannodette",,"5","158","4352","Male"
+"NetBSD","The NetBSD Foundation","Organization","28",,"0","56",,"https://github.com/NetBSD",,"0","7","322",
+"robotastic","Luke Berndt","User","28","United States","3","140",,"https://github.com/robotastic",,"0","101","187","Male"
+"Conan-Kudo","Neal Gompa (ニール・ゴンパ)","User","28",,"471","140",,"https://github.com/Conan-Kudo",,"2","362","423","Male"
+"rouault","Even Rouault","User","28","France","1","140",,"https://github.com/rouault",,"0","209","790","Male"
+"commonhaus","Commonhaus Foundation","Organization","28","United States","0","56",,"https://github.com/commonhaus",,"0","7","115",
+"sanjay900","Sanjay Govind","User","28","New Zealand","2","140",,"https://github.com/sanjay900",,"0","192","119","Male"
+"yaira2","Yair","User","27",,"2","27",,"https://github.com/yaira2",,"0","1","528","Male"
+"JoshuaKGoldberg","Josh Goldberg ✨","User","27","United States","474","135",,"https://github.com/JoshuaKGoldberg",,"0","501","2895","Male"
+"Shougo","Shougo","User","27","Japan","60","54",,"https://github.com/Shougo",,"0","193","5014","Male"
+"sqlalchemy","SQLAlchemy","Organization","27",,"0","135",,"https://github.com/sqlalchemy",,"0","10","640",
+"nvaccess","NV Access","Organization","27","Australia","0","135",,"https://github.com/nvaccess",,"0","35","201",
+"ioquatix","Samuel Williams","User","27","New Zealand","86","135",,"https://github.com/ioquatix",,"4","302","1385","Male"
+"sagemath","Sage Mathematical Software System","Organization","27",,"0","54",,"https://github.com/sagemath",,"0","85","680",
+"catppuccin","Catppuccin","Organization","27",,"0","27",,"https://github.com/catppuccin",,"0","354","9152",
+"ente-io","Ente","Organization","27",,"0","135",,"https://github.com/ente-io",,"0","68","1663",
+"outline","Outline","Organization","27","United States","0","135",,"https://github.com/outline",,"0","20","1145",
+"livewire","Livewire","Organization","27",,"0","135",,"https://github.com/livewire",,"0","19","932",
+"jonaski","Jonas Kvinge","User","27",,"359","54",,"https://github.com/jonaski",,"0","40","203","Male"
+"davidhewitt","David Hewitt","User","26","United Kingdom","8","26",,"https://github.com/davidhewitt",,"3","61","810","Male"
+"egoist","EGOIST","User","26","China","25","26",,"https://github.com/egoist",,"0","806","13199","Other"
+"unifiedjs","unified","Organization","26",,"0","52",,"https://github.com/unifiedjs",,"0","22","637",
+"samuelcolvin","Samuel Colvin","User","26","United Kingdom","47","130",,"https://github.com/samuelcolvin",,"8","302","6027","Male"
+"isaacs","isaacs","User","26","United States","4","130",,"https://github.com/isaacs",,"0","477","15928","Male"
+"Byron","Sebastian Thiel","User","26","Germany","102","130",,"https://github.com/Byron",,"0","200","1359","Male"
+"pypa","Python Packaging Authority","Organization","26","United States","0","130",,"https://github.com/pypa",,"0","58","2214",
+"marcelklehr","Marcel Klehr","User","26","Germany","56","130",,"https://github.com/marcelklehr",,"0","129","388","Male"
+"BC-SECURITY","BC Security","Organization","26",,"0","130",,"https://github.com/BC-SECURITY",,"0","55","960",
+"freeCodeCamp","freeCodeCamp.org","Organization","26","United States","0","130",,"https://github.com/freeCodeCamp",,"0","238","31981",
+"Ablaze-MIRAI","Ablaze","Organization","26","Japan","0","52",,"https://github.com/Ablaze-MIRAI",,"0","53","184",
+"Jaex",,"User","26","Turkey","67","130",,"https://github.com/Jaex",,"0","21","708","Unknown"
+"0atman","Tristram Oaten","User","26","United Kingdom","21","26",,"https://github.com/0atman",,"4","150","2652","Male"
+"coletdjnz","coletdjnz","User","26",,"0","26",,"https://github.com/coletdjnz",,"0","13","90","Unknown"
+"uniphil","phil","User","26","Canada","95","26",,"https://github.com/uniphil",,"3","289","164","Other"
+"snowe2010","Tyler Thrailkill","User","26","United States","27","130",,"https://github.com/snowe2010",,"0","140","51","Male"
+"marq24","Matthias Marquardt","User","26","Germany","30","130",,"https://github.com/marq24",,"0","39","69","Male"
+"NelsonDane","Nelson Dane","User","26",,"44","130",,"https://github.com/NelsonDane",,"1","44","73","Male"
+"Vets-Who-Code","#VetsWhoCode","Organization","25","United States","0","125",,"https://github.com/Vets-Who-Code",,"0","59","269",
+"nzakas","Nicholas C. Zakas","User","25","United States","0","125",,"https://github.com/nzakas",,"0","77","10715","Male"
+"dunglas","Kévin Dunglas","User","25","France","35","25",,"https://github.com/dunglas",,"2","460","4510","Male"
+"jonschlinkert","Jon Schlinkert","User","25","United States","75","125",,"https://github.com/jonschlinkert",,"0","862","4840","Male"
+"directus","Directus","Organization","25","United States","0","25",,"https://github.com/directus",,"0","23","902",
+"WaffleLapkin","waffle","User","25",,"123","100",,"https://github.com/WaffleLapkin",,"1","114","388","Unknown"
+"sct","Ryan Cohen","User","25","Canada","18","125",,"https://github.com/sct",,"1","46","214","Male"
+"jens-maus","Jens Maus","User","25","Germany","8","25",,"https://github.com/jens-maus",,"0","48","437","Male"
+"subsurface","Subsurface","Organization","25",,"0","125",,"https://github.com/subsurface",,"0","10","158",
+"anatawa12","anatawa12","User","25",,"32","25",,"https://github.com/anatawa12",,"0","339","223","Unknown"
+"NGPixel","Nicolas Giard","User","25","Canada","9","125",,"https://github.com/NGPixel",,"0","49","624","Male"
+"mitsuhiko","Armin Ronacher","User","25","Austria","24","125",,"https://github.com/mitsuhiko",,"0","326","23347","Male"
+"funkypenguin","David Young","User","25","China","9","125",,"https://github.com/funkypenguin",,"7","210","476","Male"
+"xoofx","Alexandre Mutel","User","25","France","59","25",,"https://github.com/xoofx",,"9","97","1590","Male"
+"drakkan","Nicola Murino","User","25","Italy","0","125",,"https://github.com/drakkan",,"0","54","278","Female"
+"KyleGospo","Kyle Gospodnetich","User","25","United States","48","125",,"https://github.com/KyleGospo",,"0","139","262","Male"
+"ruffle-rs","Ruffle","Organization","25",,"0","25",,"https://github.com/ruffle-rs",,"0","24","551",
+"hiyohiyo","Noriyuki Miyazaki","User","25",,"9","25",,"https://github.com/hiyohiyo",,"2","13","528","Male"
+"bdring",,"User","25",,"0","25",,"https://github.com/bdring",,"1","45","850","Unknown"
+"lindwurm","hota","User","25","Japan","59","25",,"https://github.com/lindwurm",,"0","27","245","Unknown"
+"nedbat","Ned Batchelder","User","24","United States","0","72",,"https://github.com/nedbat",,"1","134","2416","Male"
+"panva","Filip Skokan","User","24","Czechia","14","120",,"https://github.com/panva",,"0","55","1586","Male"
+"pulsejet","Varun Patil","User","24","United States","1","120",,"https://github.com/pulsejet",,"0","105","169","Male"
+"nicolas-grekas","Nicolas Grekas","User","24","France","5","72",,"https://github.com/nicolas-grekas",,"0","122","2086","Male"
+"MohamedBassem","Mohamed Bassem","User","24","United Kingdom","53","120",,"https://github.com/MohamedBassem",,"1","60","404","Male"
+"daviwil","David Wilson","User","24","Greece","138","48",,"https://github.com/daviwil",,"4","143","1942","Male"
+"Reputeless","Ryo Suzuki","User","24","Japan","24","96",,"https://github.com/Reputeless",,"2","78","340","Male"
+"JRaspass","James Raspass","User","24","United Kingdom","0","48",,"https://github.com/JRaspass",,"1","63","66","Male"
+"khcrysalis","SAMSAM","User","24","United States","29","24",,"https://github.com/khcrysalis",,"0","37","678","Unknown"
+"zauberzeug","Zauberzeug GmbH","Organization","24","Germany","0","120",,"https://github.com/zauberzeug",,"0","66","276",
+"varjolintu","Sami Vänttinen","User","24","Finland","15","24",,"https://github.com/varjolintu",,"0","16","82","Male"
+"MonoGame","MonoGame","Organization","24","Denmark","0","48",,"https://github.com/MonoGame",,"0","47","427",
+"kazupon","kazuya kawaguchi","User","23","Japan","458","115",,"https://github.com/kazupon",,"23","334","4257","Male"
+"3kh0","Echo","User","23",,"30","23",,"https://github.com/3kh0",,"9","66","1119","Unknown"
+"mrexodia","Duncan Ogilvie","User","23","Poland","118","115",,"https://github.com/mrexodia",,"2","586","3387","Male"
+"emacs-lsp","emacs-lsp","Organization","23",,"0","115",,"https://github.com/emacs-lsp",,"0","27","112",
+"xyflow","xyflow","Organization","23","Germany","0","115",,"https://github.com/xyflow",,"3","24","910",
+"psf","Python Software Foundation","Organization","23",,"0","115",,"https://github.com/psf",,"0","40","2136",
+"medvednikov","Alexander Medvednikov","User","23","Netherlands","0","46",,"https://github.com/medvednikov",,"0","21","2703","Male"
+"Siumauricio","Mauricio Siu","User","23","Honduras","13","23",,"https://github.com/Siumauricio",,"0","93","442","Male"
+"KronicDeth","Kadie 𒂗𒃶𒌌𒀭𒈾 𒀭𒈹 (Kadie Enheduanna Inanna)","User","23","United States","0","23",,"https://github.com/KronicDeth",,"0","93","367","Female"
+"elk-zone","Elk","Organization","23",,"0","115",,"https://github.com/elk-zone",,"0","3","491",
+"ppy","ppy","Organization","23",,"0","23",,"https://github.com/ppy",,"0","52","2020",
+"pukkandan",,"User","23",,"1","115",,"https://github.com/pukkandan",,"0","35","291","Unknown"
+"music-assistant","Music Assistant","Organization","23",,"0","115",,"https://github.com/music-assistant",,"0","35","631",
+"suzuki-shunsuke","Shunsuke Suzuki","User","23","Japan","0","23",,"https://github.com/suzuki-shunsuke",,"8","497","524","Male"
+"Torantulino","Toran Bruce Richards","User","23","United Kingdom","14","115",,"https://github.com/Torantulino",,"0","19","3540","Male"
+"simonmichael","Simon Michael","User","23","United States","5","23",,"https://github.com/simonmichael",,"0","65","326","Male"
+"bunnie","bunnie","User","23","Singapore","2","46",,"https://github.com/bunnie",,"0","127","1432","Female"
+"stashapp",,"Organization","23",,"0","23",,"https://github.com/stashapp",,"0","14","493",
+"Fabio1988","Fabio S.","User","23","Austria","5","46",,"https://github.com/Fabio1988",,"2","14","30","Male"
+"SukramJ","SukramJ","User","23","Germany","3","115",,"https://github.com/SukramJ",,"0","20","35","Male"
+"junit-team","JUnit","Organization","23",,"0","115",,"https://github.com/junit-team",,"0","16","584",
+"sdras","Sarah Drasner","User","22",,"150","22",,"https://github.com/sdras",,"2","102","24742","Female"
+"hzoo","Henry","User","22",,"0","110",,"https://github.com/hzoo",,"0","67","5318","Male"
+"typicode",,"User","22",,"0","110",,"https://github.com/typicode",,"0","77","10123","Unknown"
+"HiroKws","Hirohisa Kawase","User","22","Japan","113","110",,"https://github.com/HiroKws",,"0","18","81","Male"
+"ai","Andrey Sitnik","User","22","Spain","148","110",,"https://github.com/ai",,"3","95","9866","Male"
+"antonbabenko","Anton Babenko","User","22","Norway","241","110",,"https://github.com/antonbabenko",,"2","36","5303","Male"
+"brandonroberts","Brandon Roberts","User","22","United States","23","110",,"https://github.com/brandonroberts",,"0","373","2127","Male"
+"epoberezkin","Evgeny","User","22",,"255","44",,"https://github.com/epoberezkin",,"0","127","1013","Male"
+"Kludex","Marcelo Trylesinski","User","22","Netherlands","2","110",,"https://github.com/Kludex",,"2","155","2825","Male"
+"DioxusLabs","Dioxus Labs","Organization","22",,"0","110",,"https://github.com/DioxusLabs",,"0","36","1787",
+"saltydk","salty","User","22","Denmark","2","66",,"https://github.com/saltydk",,"0","67","70","Male"
+"pennersr","Raymond Penners","User","22","Netherlands","0","44",,"https://github.com/pennersr",,"0","75","655","Male"
+"richfelker","Rich Felker","User","22",,"0","110",,"https://github.com/richfelker",,"0","24","772","Male"
+"mvdan","Daniel Martí","User","22","United Kingdom","34","44",,"https://github.com/mvdan",,"1","64","2511","Male"
+"tulilirockz","Tulip Blossom","User","22","Brazil","422","22",,"https://github.com/tulilirockz",,"0","168","159","Female"
+"yhatt","Yuki Hattori","User","22","Japan","0","44",,"https://github.com/yhatt",,"0","32","811","Female"
+"gcanti","Giulio Canti","User","22","Italy","0","110",,"https://github.com/gcanti",,"0","80","2624","Male"
+"dlvhdr","Dolev Hadar","User","22",,"172","22",,"https://github.com/dlvhdr",,"1","52","350","Male"
+"ellie","Ellie Huxtable","User","22","United Kingdom","79","22",,"https://github.com/ellie",,"0","41","1557","Female"
+"connortechnology","Isaac Connor","User","22","Canada","56","22",,"https://github.com/connortechnology",,"0","29","100","Male"
+"spencerc99","Spencer Chang","User","22","United States","41","22",,"https://github.com/spencerc99",,"1","96","234","Male"
+"RoyalOughtness",,"User","22",,"0","22",,"https://github.com/RoyalOughtness",,"0","53","0","Unknown"
+"rianadon",,"User","22",,"10","110",,"https://github.com/rianadon",,"1","74","149","Unknown"
+"kohya-ss","Kohya S.","User","22",,"0","44",,"https://github.com/kohya-ss",,"0","13","0","Unknown"
+"Mygod","Mygod","User","22",,"39","22",,"https://github.com/Mygod",,"0","130","930","Unknown"
+"gleam-lang","Gleam","Organization","22","Canada","0","110",,"https://github.com/gleam-lang",,"0","53","2296",
+"rix1337","RiX","User","22",,"13","44",,"https://github.com/rix1337",,"0","16","42","Unknown"
+"Akryum","Guillaume Chau","User","21","France","25","21",,"https://github.com/Akryum",,"0","215","5266","Male"
+"Brooooooklyn","LongYinan","User","21","Singapore","560","105",,"https://github.com/Brooooooklyn",,"15","294","4934","Other"
+"hayes","Michael Hayes","User","21","United States","36","105",,"https://github.com/hayes",,"0","182","254","Male"
+"hsbt","Hiroshi SHIBATA","User","21","Japan","364","21",,"https://github.com/hsbt",,"0","296","1603","Male"
+"mswjs","Mock Service Worker","Organization","21",,"0","105",,"https://github.com/mswjs",,"0","23","454",
+"scohen","Steve Cohen","User","21","United States","0","105",,"https://github.com/scohen",,"0","55","220","Male"
+"Aircoookie","Christian Schwinne","User","21","Germany","0","42",,"https://github.com/Aircoookie",,"4","32","1590","Male"
+"marudor","marudor","User","21",,"17","21",,"https://github.com/marudor",,"0","41","299","Unknown"
+"AlmaLinux","AlmaLinux OS","Organization","21","United States","0","105",,"https://github.com/AlmaLinux",,"0","91","1380",
+"racket","Racket","Organization","21",,"0","21",,"https://github.com/racket",,"0","128","301",
+"knurling-rs","Knurling","Organization","21",,"0","105",,"https://github.com/knurling-rs",,"1","22","455",
+"ko1","Koichi Sasada","User","21","Japan","0","21",,"https://github.com/ko1",,"0","86","1201","Male"
+"vllm-project","vLLM","Organization","21",,"0","105",,"https://github.com/vllm-project",,"0","31","2560",
+"PHPCSStandards","PHPCSStandards","Organization","21",,"0","105",,"https://github.com/PHPCSStandards",,"0","11","80",
+"hovancik","Jan Hovancik","User","21","United States","47","21",,"https://github.com/hovancik",,"0","63","349","Male"
+"yoichiro","Yoichiro Tanaka","User","21","Japan","78","21",,"https://github.com/yoichiro",,"0","128","249","Male"
+"neuecc","Yoshifumi Kawai","User","21","Japan","22","105",,"https://github.com/neuecc",,"0","60","4004","Male"
+"schollz","Zack","User","21","United States","203","84",,"https://github.com/schollz",,"2","1132","3516","Male"
+"bartblast","Bart Blast","User","21","Poland","30","105",,"https://github.com/bartblast",,"0","21","62","Male"
+"TheEvilSkeleton","Hari Rana","User","21","Canada","119","105",,"https://github.com/TheEvilSkeleton",,"0","160","391","Male"
+"Ketho",,"User","21","Netherlands","145","21",,"https://github.com/Ketho",,"3","23","104","Unknown"
+"s0up4200","soup","User","21",,"13","105",,"https://github.com/s0up4200",,"0","26","29","Unknown"
+"tallguyjenks","Bryan Jenks","User","21","United States","64","105",,"https://github.com/tallguyjenks",,"0","29","1329","Male"
+"DaxStudio","DAX Studio","Organization","21",,"0","105",,"https://github.com/DaxStudio",,"0","3","116",
+"robjtede","Rob Ede","User","20","United Kingdom","143","20",,"https://github.com/robjtede",,"37","166","871","Male"
+"wooorm","Titus","User","20","Netherlands","486","100",,"https://github.com/wooorm",,"0","181","3478","Male"
+"brianc","Brian C","User","20","United States","35","20",,"https://github.com/brianc",,"0","154","1216","Male"
+"jfmengels","Jeroen Engels","User","20","France","15","100",,"https://github.com/jfmengels",,"0","264","399","Male"
+"axios","axios","Organization","20",,"0","40",,"https://github.com/axios",,"0","4","2292",
+"skeletonlabs","Skeleton Labs","Organization","20","United States","0","100",,"https://github.com/skeletonlabs",,"0","18","214",
+"k0kubun","Takashi Kokubun","User","20","United States","18","100",,"https://github.com/k0kubun",,"0","360","1237","Male"
+"uiua-lang","The Uiua programming language","Organization","20",,"0","100",,"https://github.com/uiua-lang",,"0","11","90",
+"AlCalzone",,"User","20","Germany","1","20",,"https://github.com/AlCalzone",,"0","130","182","Unknown"
+"bensheldon","Ben Sheldon","User","20","United States","21","20",,"https://github.com/bensheldon",,"1","245","431","Male"
+"splitbrain","Andreas Gohr","User","20","Germany","72","20",,"https://github.com/splitbrain",,"0","183","658","Male"
+"samschott",,"User","20","Germany","0","20",,"https://github.com/samschott",,"0","27","100","Unknown"
+"shivammathur","Shivam Mathur","User","20","India","22","100",,"https://github.com/shivammathur",,"0","115","1148","Male"
+"ldez","Ludovic Fernandez","User","20","France","5","60",,"https://github.com/ldez",,"0","273","697","Male"
+"PEZ","Peter Strömberg","User","20","Sweden","15","100",,"https://github.com/PEZ",,"1","349","427","Male"
+"mcallegari","Massimo Callegari","User","20","Italy","0","100",,"https://github.com/mcallegari",,"0","11","156","Male"
+"weiznich","Georg Semmler","User","20",,"3","100",,"https://github.com/weiznich",,"0","90","307","Male"
+"wolfpld","Bartosz Taudul","User","20",,"0","100",,"https://github.com/wolfpld",,"0","10","548","Male"
+"endel","Endel Dreyer","User","20","Brazil","614","100",,"https://github.com/endel",,"4","250","890","Male"
+"wixtoolset","WiX Toolset","Organization","20",,"0","100",,"https://github.com/wixtoolset",,"0","9","770",
+"WerWolv","Nik","User","20","Switzerland","8","40",,"https://github.com/WerWolv",,"0","122","2940","Male"
+"MM2-0","Valerie","User","20","Bulgaria","2","20",,"https://github.com/MM2-0",,"0","4","278","Female"
+"misskey-dev","Misskey","Organization","20",,"0","100",,"https://github.com/misskey-dev",,"0","37","591",
+"SeaQL","SeaQL","Organization","20","United Kingdom","0","100",,"https://github.com/SeaQL",,"0","21","444",
+"mar-v-in","Marvin W","User","20","Germany","4","20",,"https://github.com/mar-v-in",,"0","45","936","Male"
+"carlospolop","SirBroccoli","User","20",,"1","100",,"https://github.com/carlospolop",,"0","124","4277","Unknown"
+"Lunars","Lunars","Organization","20",,"0","100",,"https://github.com/Lunars",,"0","6","42",
+"thinh-vu","Thinh Vu","User","20","Vietnam","8","100",,"https://github.com/thinh-vu",,"0","30","241","Male"
+"frillweeman","Will Freeman","User","20",,"5","100",,"https://github.com/frillweeman",,"0","27","67","Male"
+"mgeeky","Mariusz Banach","User","20","Poland","108","100",,"https://github.com/mgeeky",,"0","95","2867","Male"
+"QROkes","Cristhian Martínez Ochoa","User","20","Mexico","0","100",,"https://github.com/QROkes",,"0","1","54","Male"
+"jgthms","Jeremy Thomas","User","19","United Kingdom","6","19",,"https://github.com/jgthms",,"1","100","6029","Male"
+"Qix-","Josh Junon","User","19",,"414","19",,"https://github.com/Qix-",,"0","459","1794","Male"
+"patak-dev","patak","User","19",,"97","76",,"https://github.com/patak-dev",,"4","53","3116","Male"
+"vitest-dev","Vitest","Organization","19",,"0","95",,"https://github.com/vitest-dev",,"0","6","654",
+"formkit","FormKit","Organization","19","United States","0","95",,"https://github.com/formkit",,"1","16","410",
+"abo-abo","Oleh Krehel","User","19","Portugal","0","19",,"https://github.com/abo-abo",,"0","109","1842","Male"
+"testcontainers","Testcontainers","Organization","19",,"0","95",,"https://github.com/testcontainers",,"0","58","2081",
+"Lissy93","Alicia Sykes","User","19","United Kingdom","156","19",,"https://github.com/Lissy93",,"0","129","6634","Female"
+"doctrine","Doctrine","Organization","19","Singapore","0","95",,"https://github.com/doctrine",,"0","77","329",
+"uutils","Uutils","Organization","19","France","0","95",,"https://github.com/uutils",,"0","22","795",
+"netbirdio",,"Organization","19","Germany","0","95",,"https://github.com/netbirdio",,"0","43","548",
+"PythonAsiaOrganization","Python Asia Organization","Organization","19",,"0","95",,"https://github.com/PythonAsiaOrganization",,"0","3","33",
+"raphamorim","Raphael Amorim","User","19",,"0","19",,"https://github.com/raphamorim",,"0","329","2350","Male"
+"AstroNvim","AstroNvim","Organization","19",,"0","95",,"https://github.com/AstroNvim",,"0","14","553",
+"thinkyhead","Scott Lahteine","User","19","United States","45","95",,"https://github.com/thinkyhead",,"0","74","635","Male"
+"Joshua-Riek","Joshua Riek","User","19","United States","0","95",,"https://github.com/Joshua-Riek",,"0","41","700","Male"
+"kolunmi",,"User","19",,"30","95",,"https://github.com/kolunmi",,"0","17","101","Male"
+"BeryJu","Jens L.","User","19","Germany","26","19",,"https://github.com/BeryJu",,"0","60","358","Male"
+"surapunoyousei","Ryosuke Asano","User","19","Japan","79","95",,"https://github.com/surapunoyousei",,"0","60","273","Male"
+"BattlesnakeOfficial","Battlesnake","Organization","19",,"0","95",,"https://github.com/BattlesnakeOfficial",,"0","33","94",
+"armbian","Armbian","Organization","19",,"0","95",,"https://github.com/armbian",,"0","58","1339",
+"FurkanGozukara","Furkan Gözükara","User","19","Turkey","4","95",,"https://github.com/FurkanGozukara",,"2","218","1172","Male"
+"budtmo","Budi Utomo","User","19","Germany","73","95",,"https://github.com/budtmo",,"0","84","530","Male"
+"delphifanforum","DelphiFan","User","19",,"6","95",,"https://github.com/delphifanforum",,"0","35","45","Unknown"
+"ubugeeei","ubugeeei","User","18","Japan","61","18",,"https://github.com/ubugeeei",,"10","126","312","Male"
+"taiki-e","Taiki Endo","User","18","Japan","0","90",,"https://github.com/taiki-e",,"0","262","940","Male"
+"harlan-zw","Harlan Wilton","User","18","Australia","132","90",,"https://github.com/harlan-zw",,"0","97","1090","Male"
+"daffl","David Luecke","User","18","Canada","102","90",,"https://github.com/daffl",,"0","29","802","Male"
+"emberjs","Ember.js","Organization","18",,"0","90",,"https://github.com/emberjs",,"0","58","311",
+"emidoots","Emi","User","18","United States","28","90",,"https://github.com/emidoots",,"2","2","1242","Female"
+"11ty","Eleventy","Organization","18","United States","0","90",,"https://github.com/11ty",,"0","72","649",
+"patriksvensson","Patrik Svensson","User","18","Sweden","109","90",,"https://github.com/patriksvensson",,"0","71","917","Male"
+"halirutan","Patrick Scheibe","User","18","Germany","28","18",,"https://github.com/halirutan",,"0","102","272","Male"
+"processing","Processing Foundation","Organization","18",,"0","18",,"https://github.com/processing",,"0","69","2200",
+"koic","Koichi ITO","User","18","Japan","0","18",,"https://github.com/koic",,"0","300","462","Male"
+"ChrisTitusTech","Chris Titus","User","18","United States","36","90",,"https://github.com/ChrisTitusTech",,"0","83","14176","Male"
+"ratatui","Ratatui","Organization","18",,"0","90",,"https://github.com/ratatui",,"0","17","602",
+"alyssais","Alyssa Ross","User","18",,"43","36",,"https://github.com/alyssais",,"0","314","963","Female"
+"bitbank2","Larry Bank","User","18",,"3","18",,"https://github.com/bitbank2",,"0","169","1101","Male"
+"jstedfast","Jeffrey Stedfast","User","18","United States","26","90",,"https://github.com/jstedfast",,"0","40","710","Male"
+"staabm","Markus Staab","User","18","Germany","34","90",,"https://github.com/staabm",,"0","620","395","Male"
+"sixlive","TJ Miller","User","18","United States","36","90",,"https://github.com/sixlive",,"0","35","371","Male"
+"qarmin","Rafał Mikrut","User","18","Poland","0","18",,"https://github.com/qarmin",,"0","83","923","Male"
+"franky47","François Best","User","18","France","77","90",,"https://github.com/franky47",,"0","154","584","Male"
+"aquamacs-emacs","Aquamacs Emacs","Organization","18",,"0","90",,"https://github.com/aquamacs-emacs",,"0","3","4",
+"naichilab","naichi","User","18","Japan","44","18",,"https://github.com/naichilab",,"5","82","136","Unknown"
+"nathancorvussolis","SASAKI Nobuyuki","User","18","Japan","5","18",,"https://github.com/nathancorvussolis",,"0","32","38","Male"
+"hanami","Hanami","Organization","18",,"0","90",,"https://github.com/hanami",,"0","34","222",
+"SimonCropp","Simon Cropp","User","18","Australia","1","18",,"https://github.com/SimonCropp",,"3","71","1085","Male"
+"SWI-Prolog","SWI-Prolog","Organization","18","United States","0","90",,"https://github.com/SWI-Prolog",,"0","93","252",
+"kirb","Adam Demasi","User","18","Australia","119","90",,"https://github.com/kirb",,"3","63","687","Male"
+"openemr","OpenEMR","Organization","18","United States","0","18",,"https://github.com/openemr",,"0","38","441",
+"miwarnec","mischa","User","18",,"3","90",,"https://github.com/miwarnec",,"0","40","546","Unknown"
+"Excel-DNA","Excel-DNA","Organization","18",,"0","90",,"https://github.com/Excel-DNA",,"0","22","157",
+"defold","Defold","Organization","18","Sweden","0","54",,"https://github.com/defold",,"3","143","445",
+"kijai","Jukka Seppänen","User","18","Finland","4","90",,"https://github.com/kijai",,"0","98","5542","Male"
+"phalcon","The Phalcon PHP Framework","Organization","18",,"0","36",,"https://github.com/phalcon",,"0","66","188",
+"karolkozer","Karol Kozer","User","18",,"1","90",,"https://github.com/karolkozer",,"0","8","68","Male"
+"xPaw","Pavel Djundik","User","18",,"7","90",,"https://github.com/xPaw",,"0","49","2604","Male"
+"anonrig","Yagiz Nizipli","User","17",,"126","85",,"https://github.com/anonrig",,"0","230","2017","Male"
+"urllib3","urllib3","Organization","17",,"0","85",,"https://github.com/urllib3",,"0","3","91",
+"codecalm","Paweł Kuna","User","17","Poland","26","85",,"https://github.com/codecalm",,"0","40","1000","Male"
+"trapexit",,"User","17","United States","1860","17",,"https://github.com/trapexit",,"0","154","627","Unknown"
+"napi-rs","Node-API (N-API) for Rust","Organization","17","Singapore","0","85",,"https://github.com/napi-rs",,"0","18","317",
+"oznu","oznu","User","17","Australia","0","34",,"https://github.com/oznu",,"0","35","496","Unknown"
+"iina","IINA","Organization","17",,"0","85",,"https://github.com/iina",,"0","17","389",
+"borgbackup","BorgBackup","Organization","17","Germany","0","34",,"https://github.com/borgbackup",,"0","10","197",
+"mrhotio",,"User","17",,"0","17",,"https://github.com/mrhotio",,"0","2","116","Unknown"
+"bjw-s","Bernd Schorgers","User","17","Netherlands","43","17",,"https://github.com/bjw-s",,"0","30","262","Male"
+"notjuliet","Juliet","User","17",,"16","85",,"https://github.com/notjuliet",,"0","10","191","Female"
+"NLnetLabs","NLnet Labs","Organization","17","Netherlands","0","85",,"https://github.com/NLnetLabs",,"0","118","479",
+"aaronjorbin","Aaron Jorbin","User","17",,"85","85",,"https://github.com/aaronjorbin",,"5","192","457","Male"
+"maxgoedjen","Max Goedjen","User","17","United States","13","17",,"https://github.com/maxgoedjen",,"0","64","214","Male"
+"Eugeny","Eugene","User","17","Germany","27","51",,"https://github.com/Eugeny",,"0","119","2357","Male"
+"sosukesuzuki","SUZUKI Sosuke","User","17","Japan","15","34",,"https://github.com/sosukesuzuki",,"1","223","670","Male"
+"probe-rs","probe.rs","Organization","17",,"0","85",,"https://github.com/probe-rs",,"0","38","163",
+"LykosAI","Lykos AI","Organization","17","United States","0","85",,"https://github.com/LykosAI",,"0","11","185",
+"ryoppippi","ryoppippi","User","17","United Kingdom","118","68",,"https://github.com/ryoppippi",,"3","320","561","Unknown"
+"mikefarah","Mike Farah","User","17","Australia","17","17",,"https://github.com/mikefarah",,"0","17","243","Male"
+"matkoch","Matthias Koch","User","17","Germany","3","85",,"https://github.com/matkoch",,"0","39","379","Male"
+"felangel","Felix Angelov","User","17","United States","76","34",,"https://github.com/felangel",,"0","145","9167","Male"
+"hecrj","Héctor","User","17","Spain","12","85",,"https://github.com/hecrj",,"12","112","1117","Male"
+"discordjs","discord.js","Organization","17",,"0","17",,"https://github.com/discordjs",,"0","33","1358",
+"gabber235","Gabber235","User","17",,"7","34",,"https://github.com/gabber235",,"0","33","49","Unknown"
+"openscad","openscad","Organization","17",,"0","17",,"https://github.com/openscad",,"0","41","292",
+"gkjohnson","Garrett Johnson","User","17","Japan","11","34",,"https://github.com/gkjohnson",,"0","115","1668","Male"
+"groue","Gwendal Roué","User","17","France","11","85",,"https://github.com/groue",,"1","68","1202","Male"
+"vikejs","Vike","Organization","17",,"0","34",,"https://github.com/vikejs",,"0","16","145",
+"hey-api","Hey API","Organization","17",,"0","85",,"https://github.com/hey-api",,"0","7","107",
+"openwebdocs","Open Web Docs","Organization","17",,"0","85",,"https://github.com/openwebdocs",,"0","8","183",
+"ciscoheat","Andreas Söderlund","User","17","Sweden","2","85",,"https://github.com/ciscoheat",,"0","121","339","Male"
+"seancorfield","Sean Corfield","User","17","United States","4","85",,"https://github.com/seancorfield",,"3","114","990","Male"
+"faithandbrave","Akira Takahashi","User","17","Japan","75","85",,"https://github.com/faithandbrave",,"0","60","236","Male"
+"agg23","Adam Gastineau","User","17","United States","41","85",,"https://github.com/agg23",,"0","154","398","Male"
+"mtotschnig","Michael Totschnig","User","17",,"1","17",,"https://github.com/mtotschnig",,"0","43","104","Male"
+"Jondolf","Joona Aalto","User","17","Finland","15","85",,"https://github.com/Jondolf",,"0","39","212","Male"
+"zepfietje","Zep Fietje","User","17",,"0","85",,"https://github.com/zepfietje",,"0","18","437","Male"
+"starkillerOG",,"User","17",,"0","17",,"https://github.com/starkillerOG",,"0","38","97","Unknown"
+"Gramps","GP Garcia","User","17","United States","125","17",,"https://github.com/Gramps",,"2","0","135","Male"
+"Blaizzy","Prince Canuma","User","17","Poland","27","85",,"https://github.com/Blaizzy",,"0","103","752","Male"
+"anomalyco","Anomaly","Organization","17",,"0","85",,"https://github.com/anomalyco",,"1","60","2606",
+"mcmonkey4eva","Alex ""mcmonkey"" Goodwin","User","17","United States","4","17",,"https://github.com/mcmonkey4eva",,"0","63","409","Male"
+"fatfingers23","Bailey Townsend","User","17","United States","62","17",,"https://github.com/fatfingers23",,"2","140","86","Unknown"
+"Project-Epoch",,"Organization","17",,"0","85",,"https://github.com/Project-Epoch",,"0","1","144",
+"timothyschoen","Timothy Schoen","User","17","Netherlands","35","85",,"https://github.com/timothyschoen",,"0","37","223","Male"
+"kmendell","Kyle Mendell","User","17","United States","7","17",,"https://github.com/kmendell",,"0","44","44","Male"
+"LittleSound","Rizumu Ayaka","User","16","United States","298","64",,"https://github.com/LittleSound",,"1","78","931","Female"
+"jedisct1","Frank Denis","User","16","France","194","80",,"https://github.com/jedisct1",,"0","494","4121","Male"
+"kyleconroy","Kyle Gray","User","16","United States","8","16",,"https://github.com/kyleconroy",,"1","317","1045","Male"
+"flavorjones","Mike Dalessio","User","16","United States","105","16",,"https://github.com/flavorjones",,"6","185","727","Male"
+"fyne-io","Fyne.io","Organization","16",,"0","16",,"https://github.com/fyne-io",,"0","43","560",
+"kamilmysliwiec","Kamil Mysliwiec","User","16","Poland","1","80",,"https://github.com/kamilmysliwiec",,"0","44","8545","Male"
+"jinzhu","Jinzhu","User","16","China","10","32",,"https://github.com/jinzhu",,"0","100","5591","Unknown"
+"clue","Christian Lück","User","16","Germany","0","80",,"https://github.com/clue",,"0","102","1234","Male"
+"hawkeye217","Josh Hawkins","User","16","United States","2","16",,"https://github.com/hawkeye217",,"0","7","50","Male"
+"samaaron","Sam Aaron","User","16","United Kingdom","30","80",,"https://github.com/samaaron",,"1","120","1965","Male"
+"better-auth","Better Auth","Organization","16",,"0","80",,"https://github.com/better-auth",,"2","9","812",
+"CodingTrain","Coding Train","Organization","16",,"0","80",,"https://github.com/CodingTrain",,"0","109","3441",
+"Heroic-Games-Launcher","Heroic Games Launcher","Organization","16","Portugal","0","48",,"https://github.com/Heroic-Games-Launcher",,"0","12","729",
+"technobaboo","Nova King","User","16",,"9","80",,"https://github.com/technobaboo",,"0","95","134","Other"
+"ikeycode","Ikey Doherty","User","16",,"9","32",,"https://github.com/ikeycode",,"0","20","249","Male"
+"Virtual-Coffee","Virtual Coffee","Organization","16",,"0","80",,"https://github.com/Virtual-Coffee",,"0","16","265",
+"privacyguides","Privacy Guides","Organization","16","United States","0","48",,"https://github.com/privacyguides",,"0","15","776",
+"clojure-lsp","clojure-lsp","Organization","16",,"0","80",,"https://github.com/clojure-lsp",,"0","13","33",
+"Bromeon","Jan Haller","User","16",,"2","80",,"https://github.com/Bromeon",,"0","15","189","Male"
+"raquo","Nikita Gazarov","User","16","Canada","5","48",,"https://github.com/raquo",,"1","78","167","Male"
+"ensan-hcl","Miwa","User","16","Japan","30","80",,"https://github.com/ensan-hcl",,"0","57","127","Female"
+"luke-jr","Luke Dashjr","User","16",,"0","80",,"https://github.com/luke-jr",,"0","88","2659","Male"
+"ful1e5","Abdulkaiz Khatri","User","16",,"0","16",,"https://github.com/ful1e5",,"0","52","286","Male"
+"Fyb3roptik","Nick Wallace","User","16","Russia","27","80",,"https://github.com/Fyb3roptik",,"0","84","51","Male"
+"cjpais","CJ Pais","User","16",,"45","80",,"https://github.com/cjpais",,"0","102","309","Unknown"
+"DomesticWarlord","DomesticWarlord","User","16",,"0","80",,"https://github.com/DomesticWarlord",,"0","29","52","Unknown"
+"pdm-project","PDM","Organization","15","China","0","75",,"https://github.com/pdm-project",,"0","21","192",
+"barryvdh","Barry vd. Heuvel","User","15","Netherlands","24","45",,"https://github.com/barryvdh",,"0","320","6855","Male"
+"vrtmrz","vorotamoroz","User","15","Japan","3","30",,"https://github.com/vrtmrz",,"1","56","170","Unknown"
+"Andarist","Mateusz Burzyński","User","15","Poland","5","75",,"https://github.com/Andarist",,"0","588","2236","Male"
+"preactjs","Preact","Organization","15",,"0","75",,"https://github.com/preactjs",,"0","39","653",
+"JeremySkinner","Jeremy Skinner","User","15","United Kingdom","7","75",,"https://github.com/JeremySkinner",,"0","56","843","Male"
+"ludeeus","Joakim Sørensen","User","15","Norway","19","75",,"https://github.com/ludeeus",,"0","107","686","Male"
+"goccy","Masaaki Goshima","User","15","Japan","46","15",,"https://github.com/goccy",,"0","77","755","Male"
+"utmapp","UTM","Organization","15",,"0","75",,"https://github.com/utmapp",,"0","40","1885",
+"phoet","Peter Schröder","User","15","Germany","0","30",,"https://github.com/phoet",,"0","143","170","Male"
+"kakaroto","Youness Alaoui","User","15","Canada","7","15",,"https://github.com/kakaroto",,"0","79","468","Male"
+"mverch67","Manuel","User","15",,"1","75",,"https://github.com/mverch67",,"0","26","116","Male"
+"vivliostyle","Vivliostyle","Organization","15",,"0","15",,"https://github.com/vivliostyle",,"0","28","125",
+"sebres","Sergey G. Brester","User","15","Germany","0","15",,"https://github.com/sebres",,"0","45","220","Male"
+"KATT","Alex / KATT","User","15","Sweden","71","75",,"https://github.com/KATT",,"4","278","3068","Unknown"
+"libretro","Libretro","Organization","15",,"0","75",,"https://github.com/libretro",,"0","282","1573",
+"kirillplatonov","Kirill Platonov","User","15","Spain","0","75",,"https://github.com/kirillplatonov",,"0","20","157","Male"
+"xunit","xUnit.net","Organization","15","United States","0","15",,"https://github.com/xunit",,"0","19","158",
+"Leaflet","Leaflet","Organization","15",,"0","75",,"https://github.com/Leaflet",,"0","16","800",
+"stevebauman","Steve Bauman","User","15","Canada","8","75",,"https://github.com/stevebauman",,"1","117","717","Male"
+"headius","Charles Oliver Nutter","User","15","United States","12","75",,"https://github.com/headius",,"0","267","1275","Male"
+"horsicq","Hors","User","15","Germany","66","15",,"https://github.com/horsicq",,"0","132","2895","Unknown"
+"ArmchairDevelopers","Armchair Developers","Organization","15",,"0","75",,"https://github.com/ArmchairDevelopers",,"0","15","39",
+"jackyzha0","Jacky Zhao","User","15","United States","325","45",,"https://github.com/jackyzha0",,"3","54","2147","Male"
+"metabrainz","MetaBrainz Foundation","Organization","15","France","0","75",,"https://github.com/metabrainz",,"1","188","619",
+"ActivityWatch","ActivityWatch","Organization","15",,"0","75",,"https://github.com/ActivityWatch",,"0","57","809",
+"ImranR98","Imran","User","15","Canada","7","75",,"https://github.com/ImranR98",,"1","59","793","Male"
+"aeharding","Alexander Harding","User","15","United States","51","45",,"https://github.com/aeharding",,"1","177","209","Male"
+"tstack","Tim Stack","User","15","United States","0","30",,"https://github.com/tstack",,"0","31","180","Male"
+"fedecan-ca","Fedecan","Organization","15","Canada","0","75",,"https://github.com/fedecan-ca",,"0","1","9",
+"RicoSuter","Rico Suter","User","15","Switzerland","30","15",,"https://github.com/RicoSuter",,"0","58","1206","Male"
+"Tyrrrz","Oleksii Holub","User","15","Ukraine","0","75",,"https://github.com/Tyrrrz",,"0","56","2779","Male"
+"SixLabors","Six Labors","Organization","15","Australia","0","30",,"https://github.com/SixLabors",,"0","26","231",
+"kwsch","Kurt","User","15",,"3","15",,"https://github.com/kwsch",,"0","75","1027","Male"
+"ucupumar",,"User","15",,"0","75",,"https://github.com/ucupumar",,"0","18","262","Unknown"
+"pedro0311","pedro","User","15","Poland","2","75",,"https://github.com/pedro0311",,"0","3","23","Male"
+"zernonia","zernonia","User","14","Malaysia","32","70",,"https://github.com/zernonia",,"5","60","911","Unknown"
+"facelessuser","Isaac Muse","User","14","United States","0","28",,"https://github.com/facelessuser",,"0","79","459","Male"
+"josdejong","Jos de Jong","User","14","Netherlands","18","14",,"https://github.com/josdejong",,"3","71","1320","Male"
+"opencv","OpenCV","Organization","14",,"0","70",,"https://github.com/opencv",,"0","16","5057",
+"tqdm","tqdm developers","Organization","14",,"0","14",,"https://github.com/tqdm",,"0","18","169",
+"sheremet-va","Vladimir","User","14","Germany","58","56",,"https://github.com/sheremet-va",,"2","58","700","Male"
+"iamkun",,"User","14","China","11","14",,"https://github.com/iamkun",,"0","3","1974","Unknown"
+"c3lang","C3 Language","Organization","14",,"0","14",,"https://github.com/c3lang",,"0","18","367",
+"pilcrowonpaper","pilcrow","User","14","Japan","0","70",,"https://github.com/pilcrowonpaper",,"0","59","3043","Male"
+"essen","Loïc Hoguin","User","14","United States","2","70",,"https://github.com/essen",,"0","36","855","Male"
+"dlemstra","Dirk Lemstra","User","14","Netherlands","65","14",,"https://github.com/dlemstra",,"0","143","766","Male"
+"projectlombok","Project Lombok","Organization","14","Netherlands","0","70",,"https://github.com/projectlombok",,"0","3","184",
+"yuru7","tawara","User","14","Japan","3","14",,"https://github.com/yuru7",,"0","33","402","Male"
+"aristocratos","Jakob P. Liljenberg","User","14","Sweden","27","14",,"https://github.com/aristocratos",,"0","7","1019","Male"
+"saschaeggi","Sascha Eggenberger","User","14","United States","0","14",,"https://github.com/saschaeggi",,"0","38","53","Unknown"
+"ptitSeb","ptitSeb","User","14","France","0","14",,"https://github.com/ptitSeb",,"0","64","1132","Unknown"
+"Songmu","Masayuki Matsuki","User","14","Japan","218","14",,"https://github.com/Songmu",,"1","250","609","Male"
+"drcmda","—","User","14",,"11","70",,"https://github.com/drcmda",,"0","89","4205","Unknown"
+"pybricks","Pybricks","Organization","14",,"0","42",,"https://github.com/pybricks",,"0","44","348",
+"baku89","Baku Hashimoto","User","14","Japan","222","70",,"https://github.com/baku89",,"1","109","1274","Unknown"
+"react-navigation","React Navigation","Organization","14",,"0","70",,"https://github.com/react-navigation",,"0","27","579",
+"rustdesk","RustDesk","User","14","Singapore","0","70",,"https://github.com/rustdesk",,"0","11","7808","Unknown"
+"honzajavorek","Honza Javorek","User","14","Czechia","163","56",,"https://github.com/honzajavorek",,"3","182","300","Male"
+"TheOrcDev","OrcDev","User","14",,"5","70",,"https://github.com/TheOrcDev",,"1","96","762","Unknown"
+"PerfectSlayer","Bruce Bujon","User","14","France","6","14",,"https://github.com/PerfectSlayer",,"0","47","190","Male"
+"potatoqualitee","Chrissy LeMaire","User","14","France","56","42",,"https://github.com/potatoqualitee",,"0","113","995","Female"
+"GearsDatapacks","Surya Rose","User","14","Portugal","33","70",,"https://github.com/GearsDatapacks",,"2","79","97","Male"
+"Innei","Innei","User","14","United States","267","14",,"https://github.com/Innei",,"1","299","3232","Unknown"
+"keradus","Dariusz Rumiński","User","14","Poland","2","14",,"https://github.com/keradus",,"0","143","354","Male"
+"LucasGGamerM",,"User","14",,"5","70",,"https://github.com/LucasGGamerM",,"0","17","101","Unknown"
+"jyn514","jyn","User","14","United States","219","14",,"https://github.com/jyn514",,"2","241","781","Other"
+"d-date","Daiki Matsudate","User","14","Japan","78","28",,"https://github.com/d-date",,"1","107","229","Male"
+"reworkd-admin","Reworkd","User","14","Ecuador","0","70",,"https://github.com/reworkd-admin",,"0","2","0","Unknown"
+"inodentry","Ida 'Iyes'","User","14","Bulgaria","1","28",,"https://github.com/inodentry",,"0","19","232","Female"
+"MSzturc",,"User","14",,"1","42",,"https://github.com/MSzturc",,"0","51","159","Unknown"
+"Athou","Jérémie Panzer","User","14","Belgium","6","70",,"https://github.com/Athou",,"0","34","110","Male"
+"soulverteam","Soulver","Organization","14",,"0","70",,"https://github.com/soulverteam",,"0","10","66",
+"noisymime","Josh Stewart","User","14",,"0","70",,"https://github.com/noisymime",,"0","24","364","Male"
+"freelensapp","Freelens","Organization","14","Italy","0","70",,"https://github.com/freelensapp",,"0","16","76",
+"IsmaelMartinez",,"User","14","United Kingdom","25","14",,"https://github.com/IsmaelMartinez",,"0","13","123","Unknown"
+"LuanRT","Luan","User","14","Canada","55","14",,"https://github.com/LuanRT",,"0","28","276","Male"
+"miklschmidt","Mikkel Schmidt","User","14",,"11","70",,"https://github.com/miklschmidt",,"0","40","70","Male"
+"stonith404","Elias Schneider","User","14","Switzerland","0","14",,"https://github.com/stonith404",,"0","10","139","Male"
+"Senryoku","Senryoku","User","14",,"16","70",,"https://github.com/Senryoku",,"0","58","42","Male"
+"ErikEJ","Erik Ejlskov Jensen","User","14","Denmark","6","14",,"https://github.com/ErikEJ",,"0","99","1592","Male"
+"funkydude","Funkeh","User","14",,"8","14",,"https://github.com/funkydude",,"2","20","108","Unknown"
+"Vanilagy","David P.","User","14","Germany","28","70",,"https://github.com/Vanilagy",,"0","22","362","Male"
+"PINTO0309","Katsuya Hyodo","User","14","Japan","36","14",,"https://github.com/PINTO0309",,"0","402","1826","Male"
+"lizmat","Elizabeth Mattijsen","User","14","Netherlands","0","70",,"https://github.com/lizmat",,"0","397","168","Female"
+"zze0s","ze0s","User","14",,"0","70",,"https://github.com/zze0s",,"0","9","35","Unknown"
+"MobiFlight","MobiFlight","Organization","14",,"0","70",,"https://github.com/MobiFlight",,"0","18","258",
+"yuki2006","yuki2006","User","14",,"3","42",,"https://github.com/yuki2006",,"0","55","30","Unknown"
+"dansiegel","Dan Siegel","User","14","Honduras","8","70",,"https://github.com/dansiegel",,"0","105","511","Male"
+"typesupply","Tal Leming","User","14","United States","3","70",,"https://github.com/typesupply",,"0","36","384","Male"
+"hipersayanX",,"User","14",,"2","28",,"https://github.com/hipersayanX",,"0","34","62","Unknown"
+"999aayush",,"User","14",,"0","70",,"https://github.com/999aayush",,"0","7","1","Unknown"
+"LukeGus","Luke Gustafson","User","14","United States","1","14",,"https://github.com/LukeGus",,"0","1","84","Male"
+"reinink","Jonathan Reinink","User","13","Canada","0","65",,"https://github.com/reinink",,"0","27","3309","Male"
+"mcollina","Matteo Collina","User","13","Italy","471","65",,"https://github.com/mcollina",,"1","615","10705","Male"
+"ku1ik","Marcin Kulik","User","13","Poland","27","65",,"https://github.com/ku1ik",,"0","117","798","Male"
+"arktypeio","ArkType","Organization","13",,"0","65",,"https://github.com/arktypeio",,"0","3","84",
+"TheAlexLichter","Alexander Lichter","User","13","Netherlands","122","65",,"https://github.com/TheAlexLichter",,"0","389","1905","Male"
+"dgutov","Dmitry Gutov","User","13","Cyprus","6","39",,"https://github.com/dgutov",,"0","60","347","Male"
+"markerikson","Mark Erikson","User","13","United States","4","65",,"https://github.com/markerikson",,"0","77","5934","Male"
+"gristlabs","Grist Labs","Organization","13","United States","0","65",,"https://github.com/gristlabs",,"0","55","262",
+"pydantic","Pydantic","Organization","13","United Kingdom","0","65",,"https://github.com/pydantic",,"0","63","2240",
+"GrahamCampbell","Graham Campbell","User","13","United Kingdom","144","65",,"https://github.com/GrahamCampbell",,"0","50","7046","Male"
+"shakacode","ShakaCode","Organization","13","United States","0","65",,"https://github.com/shakacode",,"0","167","128",
+"Flow-Launcher",,"Organization","13",,"0","13",,"https://github.com/Flow-Launcher",,"0","38","317",
+"mfikes","Mike Fikes","User","13","United States","69","13",,"https://github.com/mfikes",,"0","141","562","Male"
+"WyriHaximus","Cees-Jan Kiewiet","User","13","Netherlands","143","13",,"https://github.com/WyriHaximus",,"5","535","645","Male"
+"dg","David Grudl","User","13","France","0","65",,"https://github.com/dg",,"1","74","785","Male"
+"1024jp","1024jp","User","13","Japan","11","65",,"https://github.com/1024jp",,"0","36","491","Other"
+"sveltejs","Svelte","Organization","13",,"0","65",,"https://github.com/sveltejs",,"0","84","4670",
+"williamboman","William Boman","User","13","Sweden","72","65",,"https://github.com/williamboman",,"0","204","1017","Male"
+"dgreif","Dusty Greif","User","13","United States","3","13",,"https://github.com/dgreif",,"0","56","136","Male"
+"rxrbln","René Rebe","User","13","Germany","7","13",,"https://github.com/rxrbln",,"0","22","1563","Other"
+"gnif","Geoffrey McRae","User","13","Australia","5","13",,"https://github.com/gnif",,"0","62","344","Male"
+"kateinoigakukun","Yuta Saito","User","13","Japan","79","26",,"https://github.com/kateinoigakukun",,"0","280","631","Male"
+"AvdLee","Antoine van der Lee","User","13","Netherlands","17","13",,"https://github.com/AvdLee",,"0","88","2620","Male"
+"gumyr","Roger Maitland","User","13","Canada","1","65",,"https://github.com/gumyr",,"0","7","78","Male"
+"JohnTitor","Yuki Okushi","User","13","Japan","18","13",,"https://github.com/JohnTitor",,"0","260","1451","Male"
+"dantleech","dantleech","User","13",,"0","65",,"https://github.com/dantleech",,"4","301","272","Unknown"
+"k1LoW","Ken’ichiro Oyama","User","13","Japan","246","26",,"https://github.com/k1LoW",,"5","354","677","Male"
+"szepeviktor","Viktor Szépe","User","13",,"365","65",,"https://github.com/szepeviktor",,"0","1516","731","Male"
+"mnapoli","Matthieu Napoli","User","13","France","63","65",,"https://github.com/mnapoli",,"1","219","1476","Male"
+"dokku","Dokku","Organization","13",,"0","65",,"https://github.com/dokku",,"0","95","311",
+"erincatto","Erin Catto","User","13",,"10","39",,"https://github.com/erincatto",,"0","21","1746","Female"
+"tcgdex","TCGdex","Organization","13","Mexico","0","13",,"https://github.com/tcgdex",,"0","15","91",
+"fabian-hiller","Fabian Hiller","User","13","United States","162","65",,"https://github.com/fabian-hiller",,"0","43","702","Male"
+"robcaulk","Robert Caulk","User","13",,"14","65",,"https://github.com/robcaulk",,"1","35","194","Male"
+"logancyang","Logan Yang","User","13","United States","86","65",,"https://github.com/logancyang",,"0","71","472","Male"
+"mjaschen","Marcus Jaschen","User","13","Germany","67","13",,"https://github.com/mjaschen",,"0","154","93","Male"
+"patrickgold","Patrick Goldinger","User","13","Austria","15","13",,"https://github.com/patrickgold",,"0","15","235","Male"
+"Bnyro","Bnyro","User","13","Germany","11","65",,"https://github.com/Bnyro",,"0","66","786","Unknown"
+"JohannesMilke","Johannes Milke","User","13","Germany","0","65",,"https://github.com/JohannesMilke",,"0","682","4913","Male"
+"jasongdove","Jason Dove","User","13",,"3","65",,"https://github.com/jasongdove",,"0","29","60","Male"
+"ZoneMinder","ZoneMinder","Organization","13","United States","0","65",,"https://github.com/ZoneMinder",,"0","19","152",
+"cursorless-dev","Cursorless","Organization","13",,"0","65",,"https://github.com/cursorless-dev",,"0","11","61",
+"pagefaultgames","Pagefault Games","Organization","13","United States","0","65",,"https://github.com/pagefaultgames",,"0","5","202",
+"sneakyevil",,"User","13","Slovakia","0","26",,"https://github.com/sneakyevil",,"0","38","174","Male"
+"gc","GC","User","13",,"0","65",,"https://github.com/gc",,"0","65","58","Unknown"
+"arcestia","Laurensius Jeffrey","User","13",,"64","26",,"https://github.com/arcestia",,"0","23","58","Male"
+"Dhruv-Techapps","Dhruv Techapps","Organization","13","India","0","65",,"https://github.com/Dhruv-Techapps",,"0","5","28",
+"fenrir2608","Fenrir","User","13","India","10","65",,"https://github.com/fenrir2608",,"0","14","445","Male"
+"webfansplz","Arlo","User","12",,"201","48",,"https://github.com/webfansplz",,"0","95","1239","Male"
+"compiler-explorer","Compiler Explorer","Organization","12","United States","0","60",,"https://github.com/compiler-explorer",,"2","54","509",
+"indutny","Fedor Indutny","User","12","United States","9","60",,"https://github.com/indutny",,"2","397","3585","Male"
+"mhils","Maximilian Hils","User","12","Switzerland","5","60",,"https://github.com/mhils",,"3","195","813","Male"
+"gulpjs","gulp","Organization","12",,"0","24",,"https://github.com/gulpjs",,"0","72","199",
+"statamic","Statamic","Organization","12","United States","0","60",,"https://github.com/statamic",,"4","80","389",
+"SjonHortensius",,"User","12",,"5","36",,"https://github.com/SjonHortensius",,"0","66","75","Unknown"
+"fatedier",,"User","12",,"11","60",,"https://github.com/fatedier",,"0","68","4170","Unknown"
+"oantolin","Omar Antolín Camarena","User","12",,"2","60",,"https://github.com/oantolin",,"0","36","309","Male"
+"syl20bnr","Sylvain Benner","User","12","Canada","87","12",,"https://github.com/syl20bnr",,"0","169","1288","Male"
+"nlohmann","Niels Lohmann","User","12","Germany","19","12",,"https://github.com/nlohmann",,"0","45","2997","Male"
+"getify","Kyle Simpson","User","12","United States","3","60",,"https://github.com/getify",,"0","75","45008","Male"
+"SeleniumHQ","Selenium","Organization","12",,"0","60",,"https://github.com/SeleniumHQ",,"0","21","2370",
+"whitphx","Yuichiro Tachibana (Tsuchiya)","User","12","Japan","20","12",,"https://github.com/whitphx",,"1","151","692","Male"
+"Lokathor","Lokathor","User","12","United States","3","24",,"https://github.com/Lokathor",,"0","69","389","Male"
+"postspectacular","Karsten Schmidt","User","12",,"41","60",,"https://github.com/postspectacular",,"0","44","1409","Male"
+"rgoers","Ralph Goers","User","12",,"0","60",,"https://github.com/rgoers",,"0","11","170","Male"
+"abiosoft","Abiola Ibrahim","User","12","Nigeria","8","60",,"https://github.com/abiosoft",,"0","124","1571","Female"
+"twofas","2FAS","Organization","12","United States","0","60",,"https://github.com/twofas",,"0","8","1852",
+"dgibbs64","Daniel Gibbs","User","12","United Kingdom","73","12",,"https://github.com/dgibbs64",,"3","64","310","Male"
+"timothystewart6","Techno Tim","User","12","United States","41","36",,"https://github.com/timothystewart6",,"4","146","3908","Male"
+"teknium1","Teknium","User","12",,"28","60",,"https://github.com/teknium1",,"0","39","2555","Unknown"
+"Dimillian","Thomas Ricouard","User","12","France","239","24",,"https://github.com/Dimillian",,"4","161","3602","Male"
+"kattni","Kattni","User","12","United States","0","60",,"https://github.com/kattni",,"0","269","310","Female"
+"mary-ext","mary","User","12","Indonesia","143","60",,"https://github.com/mary-ext",,"0","72","340","Female"
+"koush","Koushik Dutta","User","12","United States","6","60",,"https://github.com/koush",,"0","371","8381","Male"
+"ptaoussanis","Peter Taoussanis","User","12",,"38","48",,"https://github.com/ptaoussanis",,"0","55","909","Male"
+"asturur","Andrea Bogazzi","User","12","Italy","6","12",,"https://github.com/asturur",,"0","85","278","Female"
+"webpro","Lars Kappert","User","12","Netherlands","0","60",,"https://github.com/webpro",,"0","114","988","Male"
+"helloanoop","Anoop M D","User","12","India","66","24",,"https://github.com/helloanoop",,"0","145","479","Male"
+"xmatthias","Matthias","User","12",,"23","60",,"https://github.com/xmatthias",,"0","57","906","Male"
+"pytest-dev","pytest-dev","Organization","12","United States","0","60",,"https://github.com/pytest-dev",,"0","76","712",
+"hrsh7th","hrsh7th","User","12","Japan","37","24",,"https://github.com/hrsh7th",,"1","216","1590","Male"
+"dotnetdev-kr",".NET Dev","Organization","12","South Korea","0","60",,"https://github.com/dotnetdev-kr",,"0","19","91",
+"pokey","Pokey Rule","User","12","United Kingdom","27","60",,"https://github.com/pokey",,"2","108","187","Male"
+"estruyf","Elio Struyf","User","12","Belgium","41","12",,"https://github.com/estruyf",,"0","231","561","Male"
+"thornbill","Bill Thornton","User","12","United States","20","24",,"https://github.com/thornbill",,"0","74","110","Male"
+"aarthificial","Jacob","User","12",,"2","60",,"https://github.com/aarthificial",,"0","13","1626","Male"
+"dzikoysk",,"User","12","Poland","9","24",,"https://github.com/dzikoysk",,"0","15","321","Unknown"
+"vitabaks","Vitaliy Kukharik","User","12","Thailand","22","60",,"https://github.com/vitabaks",,"1","12","210","Male"
+"Taiko2k","James","User","12","New Zealand","17","24",,"https://github.com/Taiko2k",,"0","15","193","Male"
+"leandrocfe","Leandro Ferreira","User","12",,"109","60",,"https://github.com/leandrocfe",,"1","43","410","Male"
+"Herschel","Mike Welsh","User","12","United States","14","12",,"https://github.com/Herschel",,"0","62","283","Male"
+"pulsar-edit","Pulsar Edit","Organization","12",,"0","60",,"https://github.com/pulsar-edit",,"0","324","969",
+"mailcow","mailcow","Organization","12","Germany","0","60",,"https://github.com/mailcow",,"0","12","452",
+"icculus","Ryan C. Gordon","User","12","United States","1","60",,"https://github.com/icculus",,"0","92","1138","Male"
+"zadam",,"User","12",,"0","12",,"https://github.com/zadam",,"0","15","694","Unknown"
+"leafac","Leandro Facchinetti","User","12","Portugal","0","12",,"https://github.com/leafac",,"0","79","385","Male"
+"AmanVarshney01","Aman Varshney","User","12","India","8","60",,"https://github.com/AmanVarshney01",,"0","87","383","Male"
+"jethrokuan","Jethro Kuan","User","12","United States","61","36",,"https://github.com/jethrokuan",,"0","137","1259","Male"
+"BlockchainCommons","Blockchain Commons, LLC — A “not-for-profit” benefit corporation","Organization","12",,"0","60",,"https://github.com/BlockchainCommons",,"0","171","344",
+"Viren070",,"User","12",,"4","60",,"https://github.com/Viren070",,"0","22","204","Unknown"
+"swiftwasm","SwiftWasm","Organization","12",,"0","60",,"https://github.com/swiftwasm",,"0","59","442",
+"zaneschepke","Zane Schepke","User","12","United States","19","60",,"https://github.com/zaneschepke",,"0","17","136","Male"
+"scastiel","Sebastien Castiel","User","12","Canada","29","24",,"https://github.com/scastiel",,"0","136","259","Male"
+"alexeygrigorev","Alexey Grigorev","User","12","Germany","0","60",,"https://github.com/alexeygrigorev",,"0","139","4988","Male"
+"si458","Simon Smith","User","12",,"10","12",,"https://github.com/si458",,"0","133","88","Male"
+"tranxuanthang",,"User","12",,"3","12",,"https://github.com/tranxuanthang",,"0","62","128","Unknown"
+"georglauterbach","Georg Lauterbach","User","12","Germany","19","60",,"https://github.com/georglauterbach",,"0","11","66","Male"
+"havit","HAVIT","Organization","12","Czechia","0","60",,"https://github.com/havit",,"0","18","50",
+"stumpylog","Trenton H","User","12","United States","0","60",,"https://github.com/stumpylog",,"0","16","42","Male"
+"jfree","David Gilbert","User","12","Switzerland","13","60",,"https://github.com/jfree",,"0","35","371","Male"
+"ChurchApps","ChurchApps","Organization","12",,"0","60",,"https://github.com/ChurchApps",,"0","26","192",
+"roderickvd","Roderick van Domburg","User","12","Netherlands","6","60",,"https://github.com/roderickvd",,"0","16","63","Male"
+"chirpstack","ChirpStack","Organization","12",,"0","60",,"https://github.com/chirpstack",,"0","20","230",
+"unclecode","UncleCode","User","12","Singapore","2","60",,"https://github.com/unclecode",,"0","123","1426","Unknown"
+"nt153133","nt153133","User","12",,"0","60",,"https://github.com/nt153133",,"0","47","52","Unknown"
+"ObsidianTTRPGProject","Obsidian TTRPG Tutorials","User","12",,"0","60",,"https://github.com/ObsidianTTRPGProject",,"0","7","73","Unknown"
+"StockCodingYouTube","주식코딩","Organization","12",,"0","60",,"https://github.com/StockCodingYouTube",,"0","0","18",
+"webknjaz","🇺🇦 Sviatoslav Sydorenko (Святослав Сидоренко)","User","11",,"2162","55",,"https://github.com/webknjaz",,"0","462","1015","Male"
+"steipete","Peter Steinberger","User","11","United Kingdom","102","55",,"https://github.com/steipete",,"19","167","8661","Male"
+"ofek","Ofek Lev","User","11","United States","99","55",,"https://github.com/ofek",,"12","322","885","Male"
+"jlesage","Jocelyn Le Sage","User","11","Canada","0","11",,"https://github.com/jlesage",,"0","94","677","Male"
+"samber","Samuel Berthe","User","11","France","47","55",,"https://github.com/samber",,"0","266","1885","Male"
+"strawberry-graphql","Strawberry GraphQL","Organization","11","United Kingdom","0","55",,"https://github.com/strawberry-graphql",,"0","22","187",
+"ota-meshi","Yosuke Ota","User","11","Japan","36","55",,"https://github.com/ota-meshi",,"0","184","746","Male"
+"phatboyg","Chris Patterson","User","11","United States","4","55",,"https://github.com/phatboyg",,"0","40","1265","Male"
+"lukeed","Luke Edwards","User","11","United States","23","55",,"https://github.com/lukeed",,"1","342","4991","Male"
+"KaelWD","Kael","User","11","Australia","0","22",,"https://github.com/KaelWD",,"0","72","304","Unknown"
+"tegnike","ニケちゃん / nikechan","User","11","Poland","0","55",,"https://github.com/tegnike",,"1","74","121","Unknown"
+"sunshowers","Rain","User","11","United States","68","55",,"https://github.com/sunshowers",,"5","152","723","Unknown"
+"sergiodxa","Sergio Xalambrí","User","11","Peru","170","55",,"https://github.com/sergiodxa",,"0","153","2197","Male"
+"bhauman","Bruce Hauman","User","11",,"8","22",,"https://github.com/bhauman",,"0","61","958","Male"
+"WillGreen","Will Green","User","11",,"173","22",,"https://github.com/WillGreen",,"0","75","218","Male"
+"JoseExposito","José Expósito","User","11","United States","13","22",,"https://github.com/JoseExposito",,"0","70","218","Male"
+"fujiwara","FUJIWARA Shunichiro","User","11","Japan","18","22",,"https://github.com/fujiwara",,"3","231","411","Male"
+"wxt-dev","wxt","Organization","11",,"0","55",,"https://github.com/wxt-dev",,"0","7","152",
+"cameroncooke","Cameron Cooke","User","11","United Kingdom","27","55",,"https://github.com/cameroncooke",,"0","59","232","Male"
+"Gadgetoid","Philip Howard","User","11","United Kingdom","7","11",,"https://github.com/Gadgetoid",,"1","205","536","Male"
+"M0nica","Monica Powell","User","11","United States","67","55",,"https://github.com/M0nica",,"0","205","4019","Female"
+"witnessmenow","Brian Lough","User","11","Ireland","9","22",,"https://github.com/witnessmenow",,"0","160","1239","Male"
+"crazy-max","CrazyMax","User","11","France","37","22",,"https://github.com/crazy-max",,"1","252","2699","Unknown"
+"brendt","Brent Roose","User","11","Belgium","1","55",,"https://github.com/brendt",,"0","53","1961","Male"
+"krzyzanowskim","Marcin Krzyzanowski","User","11","France","92","55",,"https://github.com/krzyzanowskim",,"2","94","1741","Male"
+"lavrton","Anton Lavrenov","User","11","Mexico","3","55",,"https://github.com/lavrton",,"0","35","695","Male"
+"moonrepo","moonrepo","Organization","11","United States","0","55",,"https://github.com/moonrepo",,"0","34","532",
+"olimorris","Oli","User","11","United Kingdom","16","55",,"https://github.com/olimorris",,"0","11","276","Male"
+"OvenMediaLabs","OvenMedia Labs","Organization","11","South Korea","0","55",,"https://github.com/OvenMediaLabs",,"0","6","112",
+"FyraLabs","Fyra Labs","Organization","11","United States","0","22",,"https://github.com/FyraLabs",,"0","100","133",
+"clux","Eirik A","User","11","United Kingdom","28","55",,"https://github.com/clux",,"0","117","349","Male"
+"nickg","Nick Gasson","User","11",,"10","55",,"https://github.com/nickg",,"0","54","114","Male"
+"glyph","Glyph","User","11",,"18","55",,"https://github.com/glyph",,"0","159","968","Male"
+"goetzrobin","Robin Goetz","User","11","Germany","17","55",,"https://github.com/goetzrobin",,"0","53","266","Unknown"
+"lovyan03","lovyan03","User","11","Japan","67","11",,"https://github.com/lovyan03",,"0","49","576","Unknown"
+"bpg","Pavel Boldyrev","User","11","Canada","6","55",,"https://github.com/bpg",,"0","28","109","Male"
+"dnkl","Daniel Eklöf","User","11","Sweden","0","55",,"https://github.com/dnkl",,"0","15","90","Male"
+"bram2w","Bram","User","11","United States","0","55",,"https://github.com/bram2w",,"0","8","116","Male"
+"jamwaffles","James Waples","User","11","United Kingdom","22","11",,"https://github.com/jamwaffles",,"0","75","138","Male"
+"azjezz","Seifeddine Gmati","User","11","Tunisia","96","55",,"https://github.com/azjezz",,"0","162","398","Male"
+"mlr-org",,"Organization","11","Germany","0","11",,"https://github.com/mlr-org",,"0","84","223",
+"rustfoundation","Rust Foundation","Organization","11",,"0","55",,"https://github.com/rustfoundation",,"0","13","259",
+"open-meteo","Open-Meteo","Organization","11",,"0","55",,"https://github.com/open-meteo",,"0","18","260",
+"schultek","Kilian Schulte","User","11","Germany","20","11",,"https://github.com/schultek",,"0","65","502","Male"
+"stijnvanhulle","Stijn Van Hulle","User","11","United States","169","55",,"https://github.com/stijnvanhulle",,"0","27","67","Male"
+"dmarcos","Diego Marcos","User","11","United States","0","55",,"https://github.com/dmarcos",,"0","152","713","Male"
+"stefanjudis","Stefan Judis","User","11","Germany","248","44",,"https://github.com/stefanjudis",,"0","203","1202","Male"
+"Zylann","Marc","User","11","France","5","22",,"https://github.com/Zylann",,"0","75","767","Male"
+"crnormand","Chris Normand","User","11",,"1","11",,"https://github.com/crnormand",,"0","13","24","Male"
+"EricZimmerman","Eric","User","11","United States","27","55",,"https://github.com/EricZimmerman",,"0","77","2388","Male"
+"yaqwsx","Jan Mrázek","User","11","Czechia","62","55",,"https://github.com/yaqwsx",,"0","72","413","Male"
+"YousefED","Yousef","User","11",,"50","55",,"https://github.com/YousefED",,"1","83","527","Male"
+"dimsumlabs","Dim Sum Labs","Organization","11","China","0","55",,"https://github.com/dimsumlabs",,"0","27","30",
+"yosupo06","Kohei Morita","User","11",,"28","11",,"https://github.com/yosupo06",,"1","26","234","Male"
+"yaneurao","yaneurao","User","11","Japan","2","55",,"https://github.com/yaneurao",,"0","8","148","Unknown"
+"hpc-social","hpc.social","Organization","11",,"0","55",,"https://github.com/hpc-social",,"0","15","94",
+"benkuper","Ben Kuper","User","11","France","4","11",,"https://github.com/benkuper",,"0","118","360","Male"
+"jetstreamapp","Jetstream","Organization","11","United States","0","55",,"https://github.com/jetstreamapp",,"0","3","12",
+"deneb-viz","Deneb: Declarative visualization in Power BI","Organization","11","New Zealand","0","55",,"https://github.com/deneb-viz",,"0","4","63",
+"Paymenter","Paymenter","Organization","11",,"0","55",,"https://github.com/Paymenter",,"0","4","194",
+"typemytype","Frederik Berlaen","User","11",,"17","55",,"https://github.com/typemytype",,"0","48","346","Male"
+"alf45tar",,"User","11",,"3","11",,"https://github.com/alf45tar",,"0","33","99","Unknown"
+"vicinaehq","Vicinae HQ","Organization","11",,"0","55",,"https://github.com/vicinaehq",,"0","6","55",
+"obra","Jesse Vincent","User","11","United States","88","55",,"https://github.com/obra",,"0","189","1624","Male"
+"t3dotgg","Theo Browne","User","10","United States","60","50",,"https://github.com/t3dotgg",,"4","126","16409","Male"
+"blakeembrey","Blake Embrey","User","10",,"124","50",,"https://github.com/blakeembrey",,"3","204","1895","Male"
+"sapphi-red","翠","User","10","Japan","21","50",,"https://github.com/sapphi-red",,"12","202","1291","Male"
+"mifi","Mikael Finstad","User","10","Norway","51","50",,"https://github.com/mifi",,"1","181","1814","Male"
+"yarnpkg","Yarn","Organization","10",,"0","50",,"https://github.com/yarnpkg",,"0","22","847",
+"jay-es","Jun Shindo","User","10","Japan","6","10",,"https://github.com/jay-es",,"0","117","50","Unknown"
+"trpc","tRPC","Organization","10",,"0","50",,"https://github.com/trpc",,"0","22","800",
+"DestinyItemManager","Destiny Item Manager","Organization","10","Hungary","0","20",,"https://github.com/DestinyItemManager",,"0","31","175",
+"jaredhanson","Jared Hanson","User","10","United States","113","10",,"https://github.com/jaredhanson",,"0","431","4073","Male"
+"indygreg","Gregory Szorc","User","10","United States","9","10",,"https://github.com/indygreg",,"0","100","607","Male"
+"swc-project","swc","Organization","10",,"0","50",,"https://github.com/swc-project",,"0","36","682",
+"glenn-jocher","Glenn Jocher","User","10","United States","3","50",,"https://github.com/glenn-jocher",,"0","9","3934","Male"
+"csstools","CSS Tools","Organization","10",,"0","50",,"https://github.com/csstools",,"0","119","490",
+"nicotsx","Nico","User","10","Switzerland","53","10",,"https://github.com/nicotsx",,"1","32","198","Unknown"
+"twbs","Bootstrap","Organization","10","United States","0","50",,"https://github.com/twbs",,"0","27","13776",
+"JoshuaWise","Joshua Wise","User","10","United States","1","50",,"https://github.com/JoshuaWise",,"0","41","269","Male"
+"alecthomas","Alec Thomas","User","10","Australia","5","10",,"https://github.com/alecthomas",,"2","168","1407","Male"
+"terrytangyuan","Yuan Tang","User","10","United States","90","20",,"https://github.com/terrytangyuan",,"1","166","3762","Male"
+"cafkafk",,"User","10",,"13","50",,"https://github.com/cafkafk",,"0","39","452","Female"
+"ExistentialAudio","Existential Audio","Organization","10","Canada","0","10",,"https://github.com/ExistentialAudio",,"0","16","177",
+"mumoshu","Yusuke Kuoka","User","10","Japan","59","50",,"https://github.com/mumoshu",,"1","312","1225","Male"
+"mfussenegger","Mathias Fußenegger","User","10","Austria","6","30",,"https://github.com/mfussenegger",,"0","88","1052","Male"
+"libjpeg-turbo","libjpeg-turbo","Organization","10",,"0","50",,"https://github.com/libjpeg-turbo",,"0","11","84",
+"insidegui","Guilherme Rambo","User","10","Brazil","55","50",,"https://github.com/insidegui",,"1","223","4829","Male"
+"khionu","Khionu Sybiern","User","10","United States","10","10",,"https://github.com/khionu",,"0","68","248","Female"
+"joedolson","Joe Dolson","User","10","United States","5","50",,"https://github.com/joedolson",,"0","44","160","Male"
+"Schneegans","Simon Schneegans","User","10",,"12","10",,"https://github.com/Schneegans",,"0","37","513","Male"
